@@ -5,7 +5,7 @@
 # 🐧 Hi, I’m @ADHD-Penguin  
 ### Neurodivergent Creator • AI Builder • Faith-Tech Researcher  
 
-![B-Roll Image 1](images/b_roll_1.png)
+![B-Roll Image 1](person-github/images/b_roll_1.png)
 
 🧠 I’m a **neurodivergent creator & pastor-engineer** passionate about leveraging **AI to empower ADHD, AuDHD, and ASD communities** — especially in Singapore.  
 I blend theology, design, and systems programming to craft tools that make life a bit less chaotic and a lot more connected.
@@ -54,7 +54,7 @@ I blend theology, design, and systems programming to craft tools that make life 
 ---
 
 ## 🎛️ Research Focus (Quick View)
-![B-Roll Image 5](images/b_roll_5.png)
+![B-Roll Image 5](person-github/images/b_roll_5.png)
 
 <!-- Badge Grid -->
 <p align="center">
@@ -105,7 +105,7 @@ I blend theology, design, and systems programming to craft tools that make life 
 ---
 
 ## 🔬 Research & Pursuit Topics
-![B-Roll Image 6](images/b_roll_6.png)
+![B-Roll Image 6](person-github/images/b_roll_6.png)
 
 <details open>
 <summary><b>🧩 Neurodiversity Support Systems</b></summary>
@@ -151,7 +151,7 @@ Reviving open-source projects as **micro-apps** with AI-infused twists and creat
 ---
 
 ## ⚙️ What I’m Working On
-![B-Roll Image 7](images/b_roll_7.png)
+![B-Roll Image 7](person-github/images/b_roll_7.png)
 - 🤖 **AI tools for neurodiversity** — personalized chatbots and emotional copilot systems.  
 - ⚙️ **LLM automation** — `.md` scripting for no-code workflows using Gemini CLI & Claude Code.  
 - 🎨 **Faith-based storytelling** — generative visuals and conversational theology engines.  
@@ -187,7 +187,7 @@ Reviving open-source projects as **micro-apps** with AI-infused twists and creat
 ---
 
 ## ⚡ Fun Fact
-![B-Roll Image 8](images/b_roll_8.png)
+![B-Roll Image 8](person-github/images/b_roll_8.png)
 
 Coding since 15 turned my *“inflexible penguin waddle”* into adaptive problem-solving.  
 Now I treat AI as a **hyperfocus sidekick**, transforming chaos into creative sprints.  

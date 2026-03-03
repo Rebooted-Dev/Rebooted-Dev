@@ -138,7 +138,7 @@ It's no straight path—a resilient waddle through slippery ice. From teen hacke
 </details>
 ---
 ## ⚙️ What I’m Working On
-![B-Roll Image 7](images/b_roll_7.png)
+![B-Roll Image 7](person-github/images/b_roll_7.png)
 - 🤖 **AI tools for neurodiversity** — personalized chatbots and emotional copilot systems.
 - ⚙️ **LLM automation** — `.md` scripting for no-code workflows using Gemini CLI & Claude Code.
 - 🎨 **Faith-based storytelling** — generative visuals and conversational theology engines.
@@ -164,7 +164,7 @@ It's no straight path—a resilient waddle through slippery ice. From teen hacke
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADHD-Penguin&layout=compact&theme=tokyonight&hide_border=true)
 ---
 ## ⚡ Fun Fact
-![B-Roll Image 8](images/b_roll_8.png)
+![B-Roll Image 8](person-github/images/b_roll_8.png)
 That teen code sparked a 45-year odyssey—from IPO triumphs to faith pivots, now AI-reviving it all as my hyperfocus sidekick. Turning ADHD chaos into creative sprints? Penguin-style resilience wins every slip.
 > 🐧 *Sleek, social, and unyieldingly adaptive in the wild.*
 </div>
