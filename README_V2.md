@@ -160,8 +160,7 @@ It's no straight path—a resilient waddle through slippery ice. From teen hacke
 | 🪄 Project Revivals | Reimagining old open-source with AI twists |
 ---
 ## 📊 GitHub Activity
-![Rebooted-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebooted-Dev&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebooted-Dev&layout=compact&theme=tokyonight&hide_border=true)
+*Coming soon - repositories will be showcased here once they're made public!*
 ---
 ## ⚡ Fun Fact
 ![B-Roll Image 8](person-github/images/b_roll_8.png)

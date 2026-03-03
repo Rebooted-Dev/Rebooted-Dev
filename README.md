@@ -181,8 +181,7 @@ Reviving open-source projects as **micro-apps** with AI-infused twists and creat
 
 ## 📊 GitHub Activity
 
-![Rebooted-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebooted-Dev&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebooted-Dev&layout=compact&theme=tokyonight&hide_border=true)
+*Coming soon - repositories will be showcased here once they're made public!*
 
 ---
 
