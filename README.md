@@ -18,8 +18,8 @@ I blend theology, design, and systems programming to craft tools that make life 
   <a href="https://x.com/Jesse_Sng">
     <img src="https://img.shields.io/badge/Follow-@ADHD__Penguin-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
   </a>
-  <a href="https://github.com/ADHD-Penguin">
-    <img src="https://img.shields.io/badge/GitHub-@ADHD--Penguin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/Rebooted-Dev">
+    <img src="https://img.shields.io/badge/GitHub-@Rebooted--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/jesse-sng-05ab7944/">
     <img src="https://img.shields.io/badge/LinkedIn-Jesse%20Sng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -36,8 +36,8 @@ I blend theology, design, and systems programming to craft tools that make life 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ADHD-Penguin&label=profile%20views&color=0E75B6&style=flat-square" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/ADHD-Penguin?label=followers&style=flat-square" alt="GitHub followers">
+  <img src="https://komarev.com/ghpvc/?username=Rebooted-Dev&label=profile%20views&color=0E75B6&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/Rebooted-Dev?label=followers&style=flat-square" alt="GitHub followers">
 </p>
 
 ---
@@ -85,16 +85,16 @@ I blend theology, design, and systems programming to craft tools that make life 
 
 ## 🚀 Pinned Projects Showcase
 <p align="center">
-  <!-- <a href="https://github.com/ADHD-Penguin/VoiceScribe">
+  <!-- <a href="https://github.com/Rebooted-Dev/VoiceScribe">
     <img src="images/project_voicescribe.png" width="220" alt="VoiceScribe">
   </a>
-  <a href="https://github.com/ADHD-Penguin/FaithGraph">
+  <a href="https://github.com/Rebooted-Dev/FaithGraph">
     <img src="images/project_faithgraph.png" width="220" alt="FaithGraph">
   </a>
-  <a href="https://github.com/ADHD-Penguin/NeuroToolkit">
+  <a href="https://github.com/Rebooted-Dev/NeuroToolkit">
     <img src="images/project_neurotoolkit.png" width="220" alt="NeuroToolkit">
   </a>
-  <a href="https://github.com/ADHD-Penguin/TheSermonator">
+  <a href="https://github.com/Rebooted-Dev/TheSermonator">
     <img src="images/project_sermonator.png" width="220" alt="The Sermonator">
   </a> -->
   <em>Coming Soon!</em>
@@ -181,8 +181,8 @@ Reviving open-source projects as **micro-apps** with AI-infused twists and creat
 
 ## 📊 GitHub Activity
 
-![ADHD-Penguin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADHD-Penguin&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ADHD-Penguin&layout=compact&theme=tokyonight&hide_border=true)
+![Rebooted-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rebooted-Dev&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebooted-Dev&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -219,5 +219,5 @@ I build tools that empower the differently wired, the overlooked, the creative �
 </details>
 
 <!---
-ADHD-Penguin/ADHD-Penguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rebooted-Dev/Hyper-Penguin-Personal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
