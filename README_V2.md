@@ -138,7 +138,7 @@ It's no straight path—a resilient waddle through slippery ice. From teen hacke
 </details>
 ---
 ## ⚙️ What I’m Working On
-![B-Roll Image 7](person-github/images/b_roll_7.png)
+![B-Roll Image 7](images/b_roll_7.png)
 - 🤖 **AI tools for neurodiversity** — personalized chatbots and emotional copilot systems.
 - ⚙️ **LLM automation** — `.md` scripting for no-code workflows using Gemini CLI & Claude Code.
 - 🎨 **Faith-based storytelling** — generative visuals and conversational theology engines.

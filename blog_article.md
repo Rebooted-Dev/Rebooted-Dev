@@ -12,7 +12,7 @@ This isn't just a story about cool tech. It's about how AI became my executive f
 
 Living with ADHD feels like trying to listen to a symphony where every instrument is playing a different song, all at once. There's the soaring melody of a new project idea, the booming drumbeat of an impending deadline, the quiet strings of a pastoral conversation I need to follow up on, and the dissonant clang of forgetting where I put my keys. It’s a constant, noisy, and often overwhelming state of being.
 
-![B-Roll Image 1](person-github/images/b_roll_1.png)
+![B-Roll Image 1](images/b_roll_1.png)
 
 This internal chaos makes being a “pastor-engineer” a unique challenge. The engineering side of my brain craves logic, systems, and clear, efficient code. It wants to build things that solve problems. The pastor side of my brain thrives on empathy, narrative, and the beautiful, messy complexities of the human spirit. For a long time, these two identities felt like they were in conflict. How do you reconcile a desire for binary logic with the profound gray areas of faith and human emotion? How do you build systems for communities that are, by nature, deeply unsystematic?
 
@@ -24,7 +24,7 @@ My first encounters with AI were purely technical. I saw it as a powerful tool f
 
 That’s when I reframed my relationship with AI. It became my **hyperfocus sidekick**.
 
-![B-Roll Image 2](person-github/images/b_roll_2.png)
+![B-Roll Image 2](images/b_roll_2.png)
 
 Suddenly, the chaos started to feel less like a bug and more like a feature. My racing thoughts could be dictated into a voice memo, which an AI could then transcribe, summarize, and organize into a structured outline. The overwhelming “wall of awful” that often precedes starting a big project could be broken down by having a simple conversation with an AI chatbot, asking it to help me brainstorm the first, smallest possible step.
 
@@ -38,11 +38,11 @@ It helps me in concrete ways every single day:
 
 This personal transformation quickly grew into a larger mission. If AI could help me this much, what could it do for the broader ADHD, AuDHD, and ASD communities, especially here in Singapore? The reality is that while awareness is growing, practical, personalized support is often inaccessible or expensive. 
 
-![B-Roll Image 3](person-github/images/b_roll_3.png)
+![B-Roll Image 3](images/b_roll_3.png)
 
 My primary focus now is on building **Neurodiversity Support Systems**. These aren't just generic productivity apps with a new label. I'm crafting AI-powered tools designed from the ground up to work with, not against, a neurodivergent brain. Imagine a chatbot that doesn’t just remind you of a deadline but helps you navigate the anxiety and executive dysfunction that comes with it. Or an app that helps you script a difficult conversation, or a tool that helps you de-escalate when you’re on the verge of a meltdown.
 
-![B-Roll Image 4](person-github/images/b_roll_4.png)
+![B-Roll Image 4](images/b_roll_4.png)
 
 This work is about empowerment. It’s about giving people the scaffolds they need to build the lives they want. And it’s about community. I envision creating spaces and events where neurodivergent individuals and neurotypicals can learn from each other, using anonymized insights from these tools (with strict ethical oversight, of course) to build better models and foster genuine understanding.
 
@@ -50,7 +50,7 @@ This work is about empowerment. It’s about giving people the scaffolds they ne
 
 The most unusual tab in my brain’s browser is the one labeled “Faith-Based AI.” As a pastor, I’m deeply committed to the idea that technology can be a powerful tool for spiritual formation. This isn't about replacing prayer with prompts or theology with algorithms. It’s about leveraging AI to augment and deepen our engagement with faith.
 
-![B-Roll Image 5](person-github/images/b_roll_5.png)
+![B-Roll Image 5](images/b_roll_5.png)
 
 For example, I’m exploring AI-assisted sermon notebooks. A pastor could record their initial thoughts, and an AI could help structure them, find relevant scripture, and suggest illustrations or historical context. This frees up the pastor’s mental energy to focus on the core theological and pastoral message. I’m also passionate about generative AI for creating children’s Bible stories, crafting beautiful visuals that make these ancient narratives accessible and engaging for a new generation.
 
@@ -60,9 +60,9 @@ Of course, the ethics are paramount. We must ensure these tools are aids, not id
 
 To make this all a bit more tangible, here are a few of the workflows I use constantly that blend all these passions together:
 
-1.  **Voice & Conversation Capture:** I think best when I’m talking. I use voice-to-text tools to capture everything—sermon ideas, project plans, personal reflections. An AI then transcribes this “brain dump,” identifies the key themes, and creates a structured document. It turns a scattered monologue into a coherent starting point. ![B-Roll Image 6](person-github/images/b_roll_6.png)
+1.  **Voice & Conversation Capture:** I think best when I’m talking. I use voice-to-text tools to capture everything—sermon ideas, project plans, personal reflections. An AI then transcribes this “brain dump,” identifies the key themes, and creates a structured document. It turns a scattered monologue into a coherent starting point. ![B-Roll Image 6](images/b_roll_6.png)
 
-2.  **Text Visualization:** Reading dense academic theology or technical documentation can be a nightmare for an ADHD brain. I use AI to process these long-form texts and transform them into mind maps, word clouds, and knowledge graphs. Seeing the information visually helps me grasp the core concepts and the relationships between them in a way that linear text never could. ![B-Roll Image 7](person-github/images/b_roll_7.png)
+2.  **Text Visualization:** Reading dense academic theology or technical documentation can be a nightmare for an ADHD brain. I use AI to process these long-form texts and transform them into mind maps, word clouds, and knowledge graphs. Seeing the information visually helps me grasp the core concepts and the relationships between them in a way that linear text never could. ![B-Roll Image 7](images/b_roll_7.png)
 
 3.  **Project Revival:** I have a graveyard of old open-source projects I abandoned when I hit a wall or lost interest. Now, I can feed the old code to an AI, explain my original vision, and ask it to suggest new features, refactor the code for a modern framework, or even brainstorm a new business model. It breathes new life into old ideas, turning digital dust into new potential.
 
@@ -70,7 +70,7 @@ To make this all a bit more tangible, here are a few of the workflows I use cons
 
 Being a neurodivergent pastor-engineer in the age of AI feels like I’ve finally found my element. The water. AI hasn’t “cured” my ADHD. The symphony in my head is just as loud. But now, I have a conductor’s baton. I have a sidekick that helps me orchestrate the chaos into something creative and purposeful.
 
-![B-Roll Image 8](person-github/images/b_roll_8.png)
+![B-Roll Image 8](images/b_roll_8.png)
 
 My journey is about more than just personal productivity. It’s about building tools that empower others who feel like they’re waddling on land. It’s about creating bridges between seemingly disparate worlds—faith and tech, chaos and order, the human spirit and the artificial mind.
 
