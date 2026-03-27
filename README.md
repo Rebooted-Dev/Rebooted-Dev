@@ -190,8 +190,10 @@ Reviving open-source projects as **micro-apps** with AI-infused twists and creat
 
 Coding since 15 turned my *“inflexible penguin waddle”* into adaptive problem-solving.  
 Now I treat AI as a **hyperfocus sidekick**, transforming chaos into creative sprints.  
+That teen code sparked a **45-year odyssey** - from IPO-era building to ministry pivots, and now AI-enabled toolmaking.
 
 > 🐧 *Penguins: sleek, social, and surprisingly resilient in slippery situations.*
+> 🐧 *Sleek, social, and unyieldingly adaptive in the wild.*
 </div>
 
 ---
@@ -212,6 +214,8 @@ As a pastor, I found the same logic of systems applies to the soul — empathy s
 Now, with AI reshaping the world, I’ve merged both worlds again:  
 faith, neurodiversity, and generative tech.  
 I build tools that empower the differently wired, the overlooked, the creative — those whose minds don’t fit the mold.
+
+In 2025's AI wave, I stepped back into builder mode with a group I call **"AI Uncles"** — experienced Singaporean technologists combining decades of systems intuition with practical AI delivery for ministry and community use cases.
 
 > 🐧 Still waddling forward, one adaptive commit at a time.
 
