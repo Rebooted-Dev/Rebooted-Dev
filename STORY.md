@@ -2,7 +2,7 @@
 
 *A 45-year arc, told straight.*
 
-[← Back to Profile](README.md) · [Projects](PROJECTS.md) · [Community](COMMUNITY.md)
+[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Projects](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md) · [Community](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md)
 
 ---
 
@@ -94,4 +94,4 @@ The 45 years aren't a credential. They're a map. And right now, knowing where we
 
 ---
 
-[← Back to Profile](README.md) · [Projects →](PROJECTS.md) · [Community →](COMMUNITY.md)
+[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Projects →](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md) · [Community →](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md)

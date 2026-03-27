@@ -2,7 +2,7 @@
 
 *The people I build for, build with, and build toward.*
 
-[← Back to Profile](README.md) · [Story](STORY.md) · [Projects](PROJECTS.md)
+[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Story](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md) · [Projects](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md)
 
 ---
 
@@ -98,4 +98,4 @@ I read every message. I'm not always fast, but I'm always genuine.
 
 ---
 
-[← Back to Profile](README.md) · [Story](STORY.md) · [Projects](PROJECTS.md)
+[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Story](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md) · [Projects](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md)

@@ -2,7 +2,7 @@
 
 *Production-grade tools at the intersection of faith, neurodivergence, and AI.*
 
-[← Back to Profile](README.md) · [Story](STORY.md) · [Community](COMMUNITY.md)
+[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Story](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md) · [Community](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md)
 
 ---
 
@@ -130,4 +130,4 @@ These aren't in active development, but they're part of the pattern:
 
 ---
 
-[← Back to Profile](README.md) · [Story](STORY.md) · [Community →](COMMUNITY.md)
+[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Story](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md) · [Community →](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md)

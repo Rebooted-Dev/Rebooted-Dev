@@ -2,7 +2,7 @@
 
 *Originally written from audio recordings. Revised with full context.*
 
-[← Back to Profile](README.md)
+[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md)
 
 ---
 
@@ -121,4 +121,4 @@ We can't build this alone. And we shouldn't try.
 
 ---
 
-[← Back to Profile](README.md) · [The Full Story](STORY.md) · [Projects](PROJECTS.md) · [Community](COMMUNITY.md)
+[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [The Full Story](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md) · [Projects](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md) · [Community](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md)

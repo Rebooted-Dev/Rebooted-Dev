@@ -60,20 +60,22 @@ I'm **neurodivergent** (ADHD/AuDHD), and that's not a footnote — it's the cogn
 
 ## Explore
 
+Quick links: [Story](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md) · [Projects](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md) · [Community](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md) · [Blog Article](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/blog_article.md)
+
 <p align="center">
-  <a href="STORY.md">
+  <a href="https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md">
     <img src="https://img.shields.io/badge/📖_The_Full_Story-45_Years_in_One_Arc-2C3E50?style=for-the-badge" alt="The Full Story">
   </a>
-  <a href="PROJECTS.md">
+  <a href="https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md">
     <img src="https://img.shields.io/badge/🛠_What_I'm_Building-Current_Projects-27AE60?style=for-the-badge" alt="Projects">
   </a>
-  <a href="COMMUNITY.md">
+  <a href="https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md">
     <img src="https://img.shields.io/badge/🤝_Community-ND_&_Faith_Tech-8E44AD?style=for-the-badge" alt="Community">
   </a>
 </p>
 
 <p align="center">
-  <a href="blog_article.md">
+  <a href="https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/blog_article.md">
     <img src="https://img.shields.io/badge/📝_Blog-My_Hyperfocus_Sidekick-E74C3C?style=for-the-badge" alt="Blog Article">
   </a>
 </p>
@@ -95,16 +97,16 @@ I'm **neurodivergent** (ADHD/AuDHD), and that's not a footnote — it's the cogn
 ## Research Focus
 
 <p align="center">
-  <a href="COMMUNITY.md#neurodiversity-support-systems">
+  <a href="https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md#neurodiversity-support-systems">
     <img src="https://img.shields.io/badge/🧠_Neurodiversity-AI_Support_Systems-4A90E2?style=for-the-badge" alt="Neurodiversity">
   </a>
-  <a href="PROJECTS.md#faith-tech">
+  <a href="https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md#faith-tech">
     <img src="https://img.shields.io/badge/✝️_Faith_Tech-Teaching_&_Formation-F39C12?style=for-the-badge" alt="Faith Tech">
   </a>
-  <a href="PROJECTS.md#generative-ai">
+  <a href="https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md#generative-ai">
     <img src="https://img.shields.io/badge/🎨_Generative_AI-Creative_&_Ministry_Media-8E44AD?style=for-the-badge" alt="Generative AI">
   </a>
-  <a href="COMMUNITY.md#ai-uncles">
+  <a href="https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md#ai-uncles">
     <img src="https://img.shields.io/badge/🧓_AI_Uncles-Veteran_Builders_×_AI_Delivery-16A085?style=for-the-badge" alt="AI Uncles">
   </a>
 </p>
