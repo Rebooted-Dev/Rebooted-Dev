@@ -1,77 +1,124 @@
-# My Hyperfocus Sidekick: How AI Helps Me Navigate Neurodiversity, Faith, and Code
+# My Hyperfocus Sidekick: AI, Neurodivergence, and 45 Years of Watching This Movie
 
-Hello there. If you’ve stumbled across my corner of the internet, you’ve probably seen the handle: ADHD-Penguin. It’s a strange moniker, I’ll admit. But for me, it’s the perfect metaphor. Penguins are a bit awkward on land, with a waddle that seems inefficient and rigid. Yet, in their element—the water—they are sleek, agile, and incredibly powerful. That’s what being neurodivergent feels like to me. In a world built for neurotypical minds, I often feel like I’m waddling. But when I find my element, my hyperfocus kicks in, and I can dive deep into complex worlds of code, theology, and design.
+*Originally written from audio recordings. Revised with full context.*
 
-For years, my biggest challenge was bridging those worlds. I’m a pastor-engineer, a neurodivergent creator, and a faith-tech researcher. My brain is a browser with way too many tabs open: systems programming, pastoral care, user experience design, AI ethics, and a deep desire to support the ADHD, AuDHD, and ASD communities I’m a part of. The threads were all there, but they were a tangled mess. 
+[← Back to Profile](README.md)
 
-Then I found my sidekick. Not a person, but a technology: Artificial Intelligence. And it changed everything.
+---
 
-This isn't just a story about cool tech. It's about how AI became my executive function assistant, my creative partner, and the loom I use to weave the chaotic threads of my mind into something coherent, useful, and, I hope, beautiful.
+I wrote my first attempt at AI code in 1981.
 
-## The Chaos and the Calling
+The hardware was laughably underpowered for the ambition. The vocabulary I needed — "neural network," "agent," "autonomous reasoning" — didn't really exist in public discourse yet. But the *question* existed, fully formed, in the mind of a teenager in Singapore who was already wired to see systems in everything: *what if it could think for itself?*
 
-Living with ADHD feels like trying to listen to a symphony where every instrument is playing a different song, all at once. There's the soaring melody of a new project idea, the booming drumbeat of an impending deadline, the quiet strings of a pastoral conversation I need to follow up on, and the dissonant clang of forgetting where I put my keys. It’s a constant, noisy, and often overwhelming state of being.
+That question is why I'm here, writing this, in 2025. Not because AI became exciting. Because after 45 years, it finally answered back.
 
-![B-Roll Image 1](images/b_roll_1.png)
+---
 
-This internal chaos makes being a “pastor-engineer” a unique challenge. The engineering side of my brain craves logic, systems, and clear, efficient code. It wants to build things that solve problems. The pastor side of my brain thrives on empathy, narrative, and the beautiful, messy complexities of the human spirit. For a long time, these two identities felt like they were in conflict. How do you reconcile a desire for binary logic with the profound gray areas of faith and human emotion? How do you build systems for communities that are, by nature, deeply unsystematic?
+## The Penguin Metaphor, Honestly
 
-I struggled to translate my sprawling ideas into actionable steps. My hyperfocus allowed me to learn diverse skills—from systems programming to theology—but connecting them into a unified purpose was a constant battle against executive dysfunction. I had notebooks filled with half-finished sermons, hard drives with abandoned open-source projects, and a heart full of a desire to serve both my faith community and my neurodivergent peers. I just couldn't find the bridge.
+If you've found this via my handle — ADHD-Penguin — you deserve the honest version of why that metaphor landed.
 
-## Discovering the AI Sidekick
+Penguins are awkward on land. The waddle is real, it's inefficient, and it draws attention. In a world designed for neurotypical minds, that's what ADHD/AuDHD feels like. Every standard system — school, office culture, productivity apps, meeting structures — was built for a brain that isn't mine. The waddle is constant, and exhausting.
 
-My first encounters with AI were purely technical. I saw it as a powerful tool for automation and data analysis. But as I began experimenting with Large Language Models (LLMs) like GPT and Claude, a new possibility emerged. What if AI wasn't just a tool, but a partner? What if it could be the external processor my ADHD brain so desperately needed?
+But in the water, penguins are among the most agile creatures alive. Fast, precise, operating in three dimensions simultaneously. That's what hyperfocus feels like. That's what pattern recognition across disparate fields feels like. That's what 45 years of building at the edges of technology feels like — from the inside.
 
-That’s when I reframed my relationship with AI. It became my **hyperfocus sidekick**.
+I spent most of my life before I had the framework for neurodivergence. It was just life: the compulsive hyperfocus, the inability to accept "that's just how it works," the parallel threads running constantly, a browser with twenty tabs open that you can't close. When I finally had the language, it didn't change who I was — it explained why some things that should have been easy were hard, and some things that should have been hard were effortless.
 
-![B-Roll Image 2](images/b_roll_2.png)
+Neurodivergence isn't the interesting thing about me. But it's load-bearing infrastructure for everything that is.
 
-Suddenly, the chaos started to feel less like a bug and more like a feature. My racing thoughts could be dictated into a voice memo, which an AI could then transcribe, summarize, and organize into a structured outline. The overwhelming “wall of awful” that often precedes starting a big project could be broken down by having a simple conversation with an AI chatbot, asking it to help me brainstorm the first, smallest possible step.
+---
 
-It helps me in concrete ways every single day:
+## Five Waves Before This One
 
-*   **Managing My Life:** I’m building personalized chatbots that act as emotional co-pilots. They help me regulate my emotions by offering a non-judgmental space to vent, and they can walk me through breaking down tasks that feel too big to handle.
-*   **Conquering the Blank Page:** Generative AI is my creative sparring partner. When I’m stuck on a sermon illustration or a piece of code, I can throw a half-baked idea at an LLM and get back ten different ways to approach it. It doesn’t do the work for me, but it blasts through writer’s block like nothing else.
-*   **Connecting the Dots:** AI helps me see the patterns in my own thinking. I can feed it disparate notes from theology books, coding manuals, and articles on neurodiversity, and it can help me synthesize them into a coherent argument or a new project concept.
+Here's what I want people who are currently excited about AI to understand: I've been excited about this before.
 
-## Building Bridges: AI for the Neurodivergent Community
+Not this exact thing. But the *feeling* — the sense that computing has just crossed a threshold that changes what's possible for ordinary people — I've felt that five times.
 
-This personal transformation quickly grew into a larger mission. If AI could help me this much, what could it do for the broader ADHD, AuDHD, and ASD communities, especially here in Singapore? The reality is that while awareness is growing, practical, personalized support is often inaccessible or expensive. 
+**BASIC on personal computers.** For the first time, a machine could be told what to do by someone who wasn't a specialist. The implications seemed enormous. They were.
 
-![B-Roll Image 3](images/b_roll_3.png)
+**dBASE and early databases.** Data became accessible without institutional infrastructure. The power was in the questions you could ask.
 
-My primary focus now is on building **Neurodiversity Support Systems**. These aren't just generic productivity apps with a new label. I'm crafting AI-powered tools designed from the ground up to work with, not against, a neurodivergent brain. Imagine a chatbot that doesn’t just remind you of a deadline but helps you navigate the anxiety and executive dysfunction that comes with it. Or an app that helps you script a difficult conversation, or a tool that helps you de-escalate when you’re on the verge of a meltdown.
+**HyperCard.** This is the one that shaped me most. My final-year college project was a hypermedia museum archive — multiple stacks, cross-linked, with autonomous messaging between them. A BBC Horizon documentary later featured it. What I didn't realise at the time was that I was implementing object-oriented messaging before I had the vocabulary for what I was doing. Tool-agnostic, abstraction-first architectural thinking, forged in 1989.
 
-![B-Roll Image 4](images/b_roll_4.png)
+**The Web.** Everything that seemed impossible became inevitable. I helped scale a platform from 300 to 12 million users. I prototyped a P2P photo-sharing app in 2001 that was about 15 years ahead of available infrastructure. Right idea, wrong decade. I learned the difference.
 
-This work is about empowerment. It’s about giving people the scaffolds they need to build the lives they want. And it’s about community. I envision creating spaces and events where neurodivergent individuals and neurotypicals can learn from each other, using anonymized insights from these tools (with strict ethical oversight, of course) to build better models and foster genuine understanding.
+**AI agent systems.** This is the current wave. And unlike the previous four, this one doesn't feel like it will plateau at "useful tool." The structural shift is different in kind, not just degree.
 
-## Faith in the Machine? Exploring Faith-Tech
+I've also watched the hype cycles. The promises that didn't materialise. The products that made breathless claims and delivered mediocrity. The AI winters. I have a 45-year calibration on what real progress looks like versus what investment theatre looks like. That calibration is one of the most valuable things I carry into 2025.
 
-The most unusual tab in my brain’s browser is the one labeled “Faith-Based AI.” As a pastor, I’m deeply committed to the idea that technology can be a powerful tool for spiritual formation. This isn't about replacing prayer with prompts or theology with algorithms. It’s about leveraging AI to augment and deepen our engagement with faith.
+---
 
-![B-Roll Image 5](images/b_roll_5.png)
+## The Twenty-Four Year Detour That Wasn't
 
-For example, I’m exploring AI-assisted sermon notebooks. A pastor could record their initial thoughts, and an AI could help structure them, find relevant scripture, and suggest illustrations or historical context. This frees up the pastor’s mental energy to focus on the core theological and pastoral message. I’m also passionate about generative AI for creating children’s Bible stories, crafting beautiful visuals that make these ancient narratives accessible and engaging for a new generation.
+In the early 2000s, I stopped writing production code.
 
-Of course, the ethics are paramount. We must ensure these tools are aids, not idols. They should encourage deeper reflection, not provide shallow answers. But the potential to create accessible devotionals, powerful study aids, and creative educational content is immense. It’s a new frontier for ministry, and one I feel uniquely called to explore.
+Not because I burned out. Because something else called more loudly. I became a pastor. I planted churches. I served as a Senior Pastor while simultaneously running operational leadership — for five years, I held both roles at once, and discovered that the logic of systems applies to communities just as rigorously as it applies to codebases. Empathy scales. Narrative scales. The invisible architecture of how groups actually function follows rules as clear as any well-written spec, if you're patient enough to look.
 
-## My Favorite AI-Powered Workflows
+For 24 years, I didn't ship software. I shipped community.
 
-To make this all a bit more tangible, here are a few of the workflows I use constantly that blend all these passions together:
+What that period gave me: deep, irreplaceable context on how technology actually lands in the lives of people who aren't developers. On what gets in the way of tools that should help. On the specific texture of how neurodivergent people navigate systems built without them in mind. On what faith communities actually need from technology versus what they tend to get.
 
-1.  **Voice & Conversation Capture:** I think best when I’m talking. I use voice-to-text tools to capture everything—sermon ideas, project plans, personal reflections. An AI then transcribes this “brain dump,” identifies the key themes, and creates a structured document. It turns a scattered monologue into a coherent starting point. ![B-Roll Image 6](images/b_roll_6.png)
+Most people building AI tools right now have never sat with someone having a meltdown in a church office at 11pm. Have never tried to help someone with AuDHD develop an executive function strategy after they've failed every standard productivity system. Have never watched a congregation try to bring ancient wisdom into digital life using tools that were designed for a completely different kind of person.
 
-2.  **Text Visualization:** Reading dense academic theology or technical documentation can be a nightmare for an ADHD brain. I use AI to process these long-form texts and transform them into mind maps, word clouds, and knowledge graphs. Seeing the information visually helps me grasp the core concepts and the relationships between them in a way that linear text never could. ![B-Roll Image 7](images/b_roll_7.png)
+I have. That context is irreplaceable. It's also why I came back.
 
-3.  **Project Revival:** I have a graveyard of old open-source projects I abandoned when I hit a wall or lost interest. Now, I can feed the old code to an AI, explain my original vision, and ask it to suggest new features, refactor the code for a modern framework, or even brainstorm a new business model. It breathes new life into old ideas, turning digital dust into new potential.
+---
 
-## The Penguin's Path Forward
+## Why 2025 Was Different
 
-Being a neurodivergent pastor-engineer in the age of AI feels like I’ve finally found my element. The water. AI hasn’t “cured” my ADHD. The symphony in my head is just as loud. But now, I have a conductor’s baton. I have a sidekick that helps me orchestrate the chaos into something creative and purposeful.
+I came back to active building in early 2025, and people have asked why then, specifically.
 
-![B-Roll Image 8](images/b_roll_8.png)
+The honest answer: the AI finally matched the mental model I'd been carrying since 1981.
 
-My journey is about more than just personal productivity. It’s about building tools that empower others who feel like they’re waddling on land. It’s about creating bridges between seemingly disparate worlds—faith and tech, chaos and order, the human spirit and the artificial mind.
+What I imagined in 1981 — autonomous agents that could reason, adapt, and take meaningful action across complex systems — wasn't achievable with the infrastructure available for most of the intervening decades. The hype cycles inflated and collapsed around the gap between the vision and the reality. I watched them all.
 
-If any of this resonates with you—if you’re a fellow neurodivergent creator, a developer interested in accessibility, or a faith leader curious about technology—I’d love to connect. There’s so much to build, and we can’t do it alone. Together, we can learn to not just survive in slippery situations, but to thrive in them, turning our unique waddles into a graceful, powerful dive.
+In 2025, that gap closed.
+
+Not perfectly. Not completely. But close enough that the agent-like, autonomous reasoning architectures that had lived in my head as theory were suddenly deployable as production systems. The thing I'd been tracking for 45 years became real in the way that actually matters — the way you can build on.
+
+I have a working estimate: 5 to 8 years before AI becomes invisible infrastructure. Before it's simply the electricity that everything runs on, and the opportunity to shape *how* it serves communities like mine — neurodivergent, faith-rooted, Southeast Asian — has largely passed. The window to build the tools that will matter to people who are usually built *around* rather than *for* is open now.
+
+That's why 2025.
+
+---
+
+## What the Sidekick Actually Does
+
+I called AI my "hyperfocus sidekick" because that's the truest description of how it functions for me operationally.
+
+It doesn't cure ADHD. The symphony in my head plays just as loud. But it's changed what I can do with it.
+
+The racing thoughts get dictated into a voice memo. AI transcribes, summarises, structures. The "wall of awful" before a complex task gets dismantled by having a low-stakes conversation about the first, smallest possible step. The sprawling ideas from theology, design, code, and pastoral care that couldn't find a unified frame — AI helps me see the shape of what I'm actually saying across all of them.
+
+It's executive function scaffolding. It's a creative sparring partner that doesn't get tired. It's the external processor that lets the internal processor do what it's actually good at.
+
+For me personally, that's enormously valuable. But it's a data point, not a product.
+
+The product question — the one that drives the community work — is: *what would this look like if it were designed for neurodivergent people from the ground up, rather than designed for neurotypical users and adapted at the edges?* That's what I'm building toward. Not tools that happen to be useful for ND people. Tools where ND cognitive architecture is the first-class design target.
+
+---
+
+## The Penguin in the Water
+
+Being a neurodivergent pastor-engineer in 2025 feels like I've finally found the element.
+
+Not because everything is easy. Because for the first time in 45 years, the technology I'm working with is complex enough, agent-like enough, and adaptable enough to actually match how I think. The parallel projects, the cross-disciplinary connections, the refusal to stay in one lane — these aren't bugs in the system anymore. They're features the work actually requires.
+
+I'm building tools for people who feel like they're waddling on land. For faith communities trying to find their footing in a world that's changing faster than institutions move. For neurodivergent individuals who are extraordinary at the right things, invisible in the wrong systems.
+
+If any of this resonates — if you're a fellow ND creator, a developer thinking about real accessibility, a faith leader curious about what technology could actually do for your community, or a veteran builder who remembers the earlier waves — I'd genuinely like to connect.
+
+We can't build this alone. And we shouldn't try.
+
+---
+
+📧 jesse.sng@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/jesse-sng-05ab7944/) · [Facebook](https://www.facebook.com/jesse.sng) · [GitHub](https://github.com/Rebooted-Dev)
+
+---
+
+> 🐧 *Still waddling on land. Absolutely flying in the water.*
+
+---
+
+[← Back to Profile](README.md) · [The Full Story](STORY.md) · [Projects](PROJECTS.md) · [Community](COMMUNITY.md)

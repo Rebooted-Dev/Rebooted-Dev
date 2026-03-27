@@ -1,22 +1,25 @@
-<!-- PROFILE LANDING PAGE: ADHD-Penguin -->
+<!-- ADHD-Penguin / Rebooted-Dev — GitHub Profile README -->
 
 <div align="center">
 
-# 🐧 Hi, I’m @ADHD-Penguin  
-### Neurodivergent Creator • AI Builder • Faith-Tech Researcher  
+# Jesse Sng · @ADHD-Penguin
 
-![B-Roll Image 1](images/b_roll_1.png)
+**Pastor · Builder · Neurodivergent Creator**
 
-🧠 I’m a **neurodivergent creator & pastor-engineer** passionate about leveraging **AI to empower ADHD, AuDHD, and ASD communities** — especially in Singapore.  
-I blend theology, design, and systems programming to craft tools that make life a bit less chaotic and a lot more connected.
+*Singapore · GMT+8*
 
 ---
 
-### 🌐 Connect with Me
+> *I wrote my first AI code in 1981.*
+> *I watched five technology revolutions reshape the world — from ringside.*
+> *I stepped away from tech to plant churches.*
+> *In 2025, I came back. Because this time is different.*
+
+---
 
 <p align="center">
   <a href="https://x.com/Jesse_Sng">
-    <img src="https://img.shields.io/badge/Follow-@ADHD__Penguin-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
+    <img src="https://img.shields.io/badge/Follow-@Jesse__Sng-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
   </a>
   <a href="https://github.com/Rebooted-Dev">
     <img src="https://img.shields.io/badge/GitHub-@Rebooted--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -27,12 +30,9 @@ I blend theology, design, and systems programming to craft tools that make life 
   <a href="https://www.facebook.com/jesse.sng">
     <img src="https://img.shields.io/badge/Facebook-jesse.sng-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-</p>
-
-<p align="center">
-  <a href="mailto:jesse.sng@gmail.com">✉️ Email</a> •
-  <a href="https://t.me/">💬 Telegram</a> •
-  <a href="https://www.icloud.com/shortcuts/">☁️ iCloud Shortcuts</a>
+  <a href="mailto:jesse.sng@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jesse.sng%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <p align="center">
@@ -40,187 +40,109 @@ I blend theology, design, and systems programming to craft tools that make life 
   <img src="https://img.shields.io/github/followers/Rebooted-Dev?label=followers&style=flat-square" alt="GitHub followers">
 </p>
 
----
-
-## 📝 Recent Articles
-
-<p align="center">
-  <sub>*Exploring how AI transforms neurodiversity, faith, and creative work.*</sub><br><br>
-  <a href="blog_article.md">
-    <img src="https://img.shields.io/badge/📝_Blog_MD-My_Hyperfocus_Sidekick-2C3E50?style=for-the-badge" alt="Read Blog Article (Markdown)">
-  </a>
-</p>
-
----
-
-## 🎛️ Research Focus (Quick View)
-![B-Roll Image 5](images/b_roll_5.png)
-
-<!-- Badge Grid -->
-<p align="center">
-  <a href="#-neurodiversity-support-systems">
-    <img src="https://img.shields.io/badge/🧠_Neurodiversity-AI_Support-4A90E2?style=for-the-badge" alt="Neurodiversity AI Support">
-  </a>
-  <a href="#-generative-ai-for-creative-content">
-    <img src="https://img.shields.io/badge/🎨_Generative_AI-Creative_Media-8E44AD?style=for-the-badge" alt="Generative AI">
-  </a>
-  <a href="#-voice--conversation-capture">
-    <img src="https://img.shields.io/badge/🎙_Voice-Auto_Notetaking_&_Stories-2C3E50?style=for-the-badge" alt="Voice">
-  </a>
-  <a href="#-text-visualization--outlining">
-    <img src="https://img.shields.io/badge/🧠_Text_Visualization-Maps_&_Graphs-27AE60?style=for-the-badge" alt="Text Visualization">
-  </a>
-  <a href="#️-faith-based-ai-applications">
-    <img src="https://img.shields.io/badge/✝️_Faith_Tech-Teaching_&_Formation-F39C12?style=for-the-badge" alt="Faith Tech">
-  </a>
-  <a href="#-knowledge-curation--notebooks">
-    <img src="https://img.shields.io/badge/📚_Knowledge-Curation_&_Agents-16A085?style=for-the-badge" alt="Knowledge Curation">
-  </a>
-  <a href="#-project-revival--ideation">
-    <img src="https://img.shields.io/badge/🧬_Revival-Microapps_&_Biz_Twists-E74C3C?style=for-the-badge" alt="Project Revival">
-  </a>
-</p>
-
----
-
-## 🚀 Pinned Projects Showcase
-<p align="center">
-  <!-- <a href="https://github.com/Rebooted-Dev/VoiceScribe">
-    <img src="images/project_voicescribe.png" width="220" alt="VoiceScribe">
-  </a>
-  <a href="https://github.com/Rebooted-Dev/FaithGraph">
-    <img src="images/project_faithgraph.png" width="220" alt="FaithGraph">
-  </a>
-  <a href="https://github.com/Rebooted-Dev/NeuroToolkit">
-    <img src="images/project_neurotoolkit.png" width="220" alt="NeuroToolkit">
-  </a>
-  <a href="https://github.com/Rebooted-Dev/TheSermonator">
-    <img src="images/project_sermonator.png" width="220" alt="The Sermonator">
-  </a> -->
-  <em>Coming Soon!</em>
-</p>
-
-<sub>🎯 *Featured prototypes combining theology, creativity, and adaptive AI systems.*</sub>
-
----
-
-## 🔬 Research & Pursuit Topics
-![B-Roll Image 6](images/b_roll_6.png)
-
-<details open>
-<summary><b>🧩 Neurodiversity Support Systems</b></summary>
-AI chatbots and apps for **ADHD/AuDHD/ASD** life management, emotional regulation, and study/work adaptation.  
-Community events fostering neurodiverse/NT understanding and anonymized insight mining for better AI models.
-</details>
-
-<details>
-<summary><b>🎨 Generative AI for Creative Content</b></summary>
-Tools for **memes, wallpapers, abstract art, and children’s Bible stories**.  
-Cross-modal pipelines for tone analysis, narrative flow, and education-focused visual generation.
-</details>
-
-<details>
-<summary><b>🎙 Voice & Conversation Capture</b></summary>
-Virtual interviewers (e.g., **VoiceScribe**) for multi-session dialogue, transcription, and reflective biographies.  
-Real-time adaptive questioning and structured note synthesis.
-</details>
-
-<details>
-<summary><b>🧠 Text Visualization & Outlining</b></summary>
-Building **mind maps, word clouds, timelines, and knowledge graphs** for sermons, studies, and long-form essays.  
-Organic, analog-style UIs with generative randomness for creative exploration.
-</details>
-
-<details>
-<summary><b>✝️ Faith-Based AI Applications</b></summary>
-Exploring gaps in **Christian/Bible tech ecosystems**.  
-AI-assisted **sermon notebooks**, devotionals, and spiritual formation agents that balance ethics and scalability.
-</details>
-
-<details>
-<summary><b>📚 Knowledge Curation & Notebooks</b></summary>
-Developing **AI browsers** that evolve from chat history.  
-Turning reflective dialogues into online content or micro-publications.
-</details>
-
-<details>
-<summary><b>🧬 Project Revival & Ideation</b></summary>
-Reviving open-source projects as **micro-apps** with AI-infused twists and creative business/community layers.
-</details>
-
----
-
-## ⚙️ What I’m Working On
-![B-Roll Image 7](images/b_roll_7.png)
-- 🤖 **AI tools for neurodiversity** — personalized chatbots and emotional copilot systems.  
-- ⚙️ **LLM automation** — `.md` scripting for no-code workflows using Gemini CLI & Claude Code.  
-- 🎨 **Faith-based storytelling** — generative visuals and conversational theology engines.  
-- 🧠 **Adaptive UX** — neurodiversity-friendly UI prototypes and emotional feedback design.  
-- 🔍 **Research orchestration** — Telegram-triggered multi-device automation with GPT and voice agents.  
-
----
-
-## 🌱 Currently Learning
-🧩 Prompt engineering • 🧮 NLP structuring • 🎥 yt-dlp + AI pipelines • 📱 Telegram automation  
-🎨 Responsive design • 🧘 Faith-tech UX • 📊 Neurodiverse data ethics • 💬 Conversational flow design  
-
----
-
-## 💞️ Collaboration Interests
-
-| Area | Description |
-|------|--------------|
-| 🌍 Neurodiversity Apps | Free-tier web/mobile chatbots starting in Singapore |
-| 🧰 Automation Frameworks | Markdown-based SOPs for research and content ops |
-| 🧑‍🤝‍🧑 Community Projects | Inclusive event co-design and neurodiverse art |
-| 🧠 Visualization Tools | Mind-map engines and voice-to-story generators |
-| 🕊️ Faith-Tech | AI devotionals, sermon notebooks, lesson planners |
-| 🪄 Project Revivals | Reimagining old open-source with AI twists |
-
----
-
-## 📊 GitHub Activity
-
-*Coming soon - repositories will be showcased here once they're made public!*
-
----
-
-## ⚡ Fun Fact
-![B-Roll Image 8](images/b_roll_8.png)
-
-Coding since 15 turned my *“inflexible penguin waddle”* into adaptive problem-solving.  
-Now I treat AI as a **hyperfocus sidekick**, transforming chaos into creative sprints.  
-That teen code sparked a **45-year odyssey** - from IPO-era building to ministry pivots, and now AI-enabled toolmaking.
-
-> 🐧 *Penguins: sleek, social, and surprisingly resilient in slippery situations.*
-> 🐧 *Sleek, social, and unyieldingly adaptive in the wild.*
 </div>
 
 ---
 
+## Who I Am
+
+I'm a **pastor-engineer** with a 45-year longitudinal relationship with AI — from attempted machine learning code in 1981 to building production AI agent systems today.
+
+I hold an NUS BSc in Computer Science (1989), spent 12+ years scaling tech products (including growing a platform from 300 to 12 million users), then stepped away entirely from software to plant churches and serve as a Senior Pastor. For 24 years, I didn't write a line of production code.
+
+In early 2025, I came back.
+
+Not because AI became trendy. Because after 45 years of watching hype cycles inflate and collapse, I recognised the *structural* shift — AI finally matched the autonomous, agent-like mental model I'd been carrying since before the vocabulary existed. This isn't another wave to observe from the shore. This is the one you have to be in.
+
+I'm **neurodivergent** (ADHD/AuDHD), and that's not a footnote — it's the cognitive architecture that let me think this way across five decades. The hyperfocus, the parallel processing, the inability to accept "that's just how it works" as an answer. Every system I've built has carried that fingerprint.
+
+---
+
+## Explore
+
+<p align="center">
+  <a href="STORY.md">
+    <img src="https://img.shields.io/badge/📖_The_Full_Story-45_Years_in_One_Arc-2C3E50?style=for-the-badge" alt="The Full Story">
+  </a>
+  <a href="PROJECTS.md">
+    <img src="https://img.shields.io/badge/🛠_What_I'm_Building-Current_Projects-27AE60?style=for-the-badge" alt="Projects">
+  </a>
+  <a href="COMMUNITY.md">
+    <img src="https://img.shields.io/badge/🤝_Community-ND_&_Faith_Tech-8E44AD?style=for-the-badge" alt="Community">
+  </a>
+</p>
+
+<p align="center">
+  <a href="blog_article.md">
+    <img src="https://img.shields.io/badge/📝_Blog-My_Hyperfocus_Sidekick-E74C3C?style=for-the-badge" alt="Blog Article">
+  </a>
+</p>
+
+---
+
+## What I'm Building Now
+
+| Project | What It Is |
+|---------|------------|
+| 🎙 **Missionary Video Pipeline** | Fully automated video production system — record against a prompt deck, composite ProRes footage, generate cue-driven b-roll via Remotion |
+| ⚡ **The Sermonator** | Production-grade React workbench with nine sermon analysis modes, dark ministerial aesthetic, session persistence |
+| 🧬 **Generations** | Neurodivergent employment matching platform for Singapore — addressing the structural gap between ND talent and organisations that can't see it |
+| 🕊 **Spiritual Gifts Tool** | Persistent discernment report tool with dual onboarding paths and export functionality |
+| 🌐 **hyperpasta.dev** | My unified digital home — neurodivergence, ministry, and AI/dev as one coherent voice |
+
+---
+
+## Research Focus
+
+<p align="center">
+  <a href="COMMUNITY.md#neurodiversity-support-systems">
+    <img src="https://img.shields.io/badge/🧠_Neurodiversity-AI_Support_Systems-4A90E2?style=for-the-badge" alt="Neurodiversity">
+  </a>
+  <a href="PROJECTS.md#faith-tech">
+    <img src="https://img.shields.io/badge/✝️_Faith_Tech-Teaching_&_Formation-F39C12?style=for-the-badge" alt="Faith Tech">
+  </a>
+  <a href="PROJECTS.md#generative-ai">
+    <img src="https://img.shields.io/badge/🎨_Generative_AI-Creative_&_Ministry_Media-8E44AD?style=for-the-badge" alt="Generative AI">
+  </a>
+  <a href="COMMUNITY.md#ai-uncles">
+    <img src="https://img.shields.io/badge/🧓_AI_Uncles-Veteran_Builders_×_AI_Delivery-16A085?style=for-the-badge" alt="AI Uncles">
+  </a>
+</p>
+
+---
+
+## A Note to Visitors
+
+This GitHub is simultaneously a **builder's workshop**, a **research log**, and a **contact point**. Public repositories will surface as projects reach a stranger-ready state — I build stable before I build visible.
+
+If something you've seen resonates — whether you're a neurodivergent creator, a developer thinking about accessibility and faith, a church leader curious about AI, or a fellow veteran builder who remembers the earlier waves — I'd genuinely like to hear from you.
+
+📧 **jesse.sng@gmail.com**  
+💬 Connect via [LinkedIn](https://www.linkedin.com/in/jesse-sng-05ab7944/) or [Facebook](https://www.facebook.com/jesse.sng)
+
+---
+
 <details>
-<summary><b>📜 My Journey — From Code to Calling</b></summary>
+<summary><b>📜 The Short Version of a Long Story</b></summary>
 
-From teen hacker in 1980s Singapore to tech founder and now faith-driven AI builder,  
-my life has been a looping algorithm of reinvention.
+<br>
 
-It began at age 15, coding in BASIC on a clunky screen, discovering that problems weren’t walls but puzzles to reframe.  
-In the ’90s, I bootstrapped R&D teams, engineered viral growth that took companies from hundreds to millions of users,  
-and learned that leadership was just another form of debugging — of people.
+It started in 1981 in Singapore, with a teenager trying to write AI code on hardware that had no business running it.
 
-Then came the deeper rewrite: I traded IPOs for ministry, code for community.  
-As a pastor, I found the same logic of systems applies to the soul — empathy scales, too.
+Over the next four decades, I lived through every major democratisation wave in computing — not as an observer, but as a builder: **BASIC on personal computers. dBASE. HyperCard. The web. And now, AI vibe-coding.** Each wave reshaped what was possible for ordinary people. I was there for all five.
 
-Now, with AI reshaping the world, I’ve merged both worlds again:  
-faith, neurodiversity, and generative tech.  
-I build tools that empower the differently wired, the overlooked, the creative — those whose minds don’t fit the mold.
+My NUS Computer Science degree (1989) was preceded by final-year college work modelling object-oriented messaging and autonomous systems across separate HyperCard stacks — before mainstream OOP vocabulary existed. That abstraction-first, tool-agnostic architectural instinct has been a 35-year pattern.
 
-In 2025's AI wave, I stepped back into builder mode with a group I call **"AI Uncles"** — experienced Singaporean technologists combining decades of systems intuition with practical AI delivery for ministry and community use cases.
+Then came the tech years: startup founding, scaling platforms, engineering viral growth. Then came the deeper rewrite — trading IPO-era ambition for pastoral work, church planting, and community. A 24-year retirement from software. Not a sabbatical. A genuine pivot.
 
-> 🐧 Still waddling forward, one adaptive commit at a time.
+In early 2025, the pattern I'd been tracking for 45 years finally resolved. The AI agent architecture I'd been carrying as a mental model since the beginning was now *real*. I came back — not to catch a trend, but because the window to shape how these tools serve communities like mine (neurodivergent, faith-rooted, Southeast Asian) is open now, and won't stay open long.
+
+> 🐧 Still waddling on land. Absolutely flying in the water.
 
 </details>
 
+---
+
 <!---
-Rebooted-Dev/Hyper-Penguin-Personal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rebooted-Dev/README.md — this file appears on your GitHub profile.
 --->
