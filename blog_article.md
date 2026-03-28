@@ -2,7 +2,7 @@
 
 *Originally written from audio recordings. Revised with full context.*
 
-[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md)
+[← Profile](./README.md) · [Story](./STORY.md) · [Projects](./PROJECTS.md) · [Community](./COMMUNITY.md)
 
 ---
 
@@ -112,8 +112,7 @@ We can't build this alone. And we shouldn't try.
 
 ---
 
-📧 jesse.sng@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/jesse-sng-05ab7944/) · [Facebook](https://www.facebook.com/jesse.sng) · [GitHub](https://github.com/Rebooted-Dev)
+[→ Contact me](https://hyper-pasta.dev/contact) · [LinkedIn](https://www.linkedin.com/in/jesse-sng-05ab7944/) · [GitHub](https://github.com/Rebooted-Dev) · [X](https://x.com/Jesse_Sng)
 
 ---
 
@@ -121,4 +120,4 @@ We can't build this alone. And we shouldn't try.
 
 ---
 
-[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [The Full Story](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md) · [Projects](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md) · [Community](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md)
+[← Profile](./README.md) · [Story](./STORY.md) · [Projects](./PROJECTS.md) · [Community](./COMMUNITY.md)

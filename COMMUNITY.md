@@ -2,7 +2,7 @@
 
 *The people I build for, build with, and build toward.*
 
-[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Story](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md) · [Projects](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md)
+[← Profile](./README.md) · [Story](./STORY.md) · [Projects](./PROJECTS.md)
 
 ---
 
@@ -26,7 +26,7 @@ The ADHD, AuDHD, and ASD communities in Singapore and beyond — particularly th
 
 Not generic productivity apps with a new label. AI-powered tools designed from the ground up to work *with* a neurodivergent brain — to scaffold the things that are genuinely hard (executive function, emotional regulation, the "wall of awful" before starting something) without pathologising the things that are genuinely strengths (hyperfocus, pattern recognition, unconventional connection-making).
 
-**Concrete examples of what this looks like:**
+**What this looks like:**
 
 - A chatbot that doesn't just remind you of a deadline but helps you navigate the anxiety and executive dysfunction that arrives with it
 - Tools that help script difficult conversations, or de-escalate before a meltdown
@@ -69,8 +69,6 @@ The name is deliberate. "Uncle" in Singapore English carries weight — seniorit
 
 Our focus: practical AI delivery for ministry and community use cases. Not enterprise transformation. Not venture-scale products. Tools that actually serve people who are often overlooked by mainstream AI development.
 
-We combine deep experience with genuine humility about what we don't know — which is, honestly, a lot of what makes AI work at the community level.
-
 ---
 
 ## Collaboration Interests
@@ -90,12 +88,10 @@ If any of the following describes you, I'd like to connect:
 
 ## Get In Touch
 
-📧 **jesse.sng@gmail.com**
-
 I read every message. I'm not always fast, but I'm always genuine.
 
-[LinkedIn](https://www.linkedin.com/in/jesse-sng-05ab7944/) · [Facebook](https://www.facebook.com/jesse.sng) · [X / Twitter](https://x.com/Jesse_Sng)
+[→ Contact me](https://hyper-pasta.dev/contact) · [X](https://x.com/Jesse_Sng) · [LinkedIn](https://www.linkedin.com/in/jesse-sng-05ab7944/) · [GitHub](https://github.com/Rebooted-Dev)
 
 ---
 
-[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Story](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/STORY.md) · [Projects](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md)
+[← Profile](./README.md) · [Story](./STORY.md) · [Projects](./PROJECTS.md)
