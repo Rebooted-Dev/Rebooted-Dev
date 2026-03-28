@@ -1,8 +1,8 @@
 # The Full Story
 
-*A 45-year arc, told straight.*
+> **TL;DR** — From attempted AI code in 1981 to production agent systems in 2025, via church planting, 12M-user scaling, and a 24-year detour that wasn't. A 45-year arc, told straight.
 
-[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Projects](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md) · [Community](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md)
+[← Profile](./README.md) · [Projects](./PROJECTS.md) · [Community](./COMMUNITY.md)
 
 ---
 
@@ -38,7 +38,7 @@ I've watched every hype cycle in AI inflate and collapse since 1981. I know the 
 
 ---
 
-## The NUS Years and the First Real Builds
+## 1989 — The NUS Years and the First Real Builds
 
 I completed my BSc in Computer Science at the National University of Singapore in 1989. The technical formation there was rigorous, but the ideas that have lasted came from what I was building *around* the curriculum — autonomous systems, hypermedia, and the conviction that the most interesting problems live at the intersection of disciplines.
 
@@ -46,7 +46,7 @@ Post-graduation, I founded a startup. I built engineering teams and R&D function
 
 ---
 
-## The Long Middle — Ministry, Planting, Pastoring
+## Early 2000s — The Long Middle
 
 In the early 2000s, I made a decision that most people in my technical world found baffling: I stopped building software.
 
@@ -90,8 +90,4 @@ The 45 years aren't a credential. They're a map. And right now, knowing where we
 
 ---
 
-> 🐧 *"Penguins: sleek, social, and surprisingly resilient in slippery situations."*
-
----
-
-[← Back to Profile](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/README.md) · [Projects →](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/PROJECTS.md) · [Community →](https://github.com/Rebooted-Dev/Rebooted-Dev/blob/main/COMMUNITY.md)
+[← Profile](./README.md) · [Projects →](./PROJECTS.md) · [Community →](./COMMUNITY.md)
