@@ -2,7 +2,20 @@
 
 *Originally written from audio recordings. Revised with full context.*
 
-[← Profile](./README.md) · [Story](./STORY.md) · [Projects](./PROJECTS.md) · [Community](./COMMUNITY.md)
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/←_Profile-README-181717?style=for-the-badge&logo=github" alt="Profile">
+  </a>
+  <a href="./STORY.md">
+    <img src="https://img.shields.io/badge/📖_Story-Full_Arc-181717?style=for-the-badge" alt="Story">
+  </a>
+  <a href="./PROJECTS.md">
+    <img src="https://img.shields.io/badge/🛠_Projects-Building-27AE60?style=for-the-badge" alt="Projects">
+  </a>
+  <a href="./COMMUNITY.md">
+    <img src="https://img.shields.io/badge/🤝_Community-Connect-4A90E2?style=for-the-badge" alt="Community">
+  </a>
+</p>
 
 ---
 
@@ -13,6 +26,8 @@ The hardware was laughably underpowered for the ambition. The vocabulary I neede
 That question is why I'm here, writing this, in 2025. Not because AI became exciting. Because after 45 years, it finally answered back.
 
 ---
+
+![B-Roll](images/b_roll_1.jpg)
 
 ## The Penguin Metaphor, Honestly
 
@@ -28,6 +43,8 @@ Neurodivergence isn't the interesting thing about me. But it's load-bearing infr
 
 ---
 
+![B-Roll](images/b_roll_2.jpg)
+
 ## Five Waves Before This One
 
 Here's what I want people who are currently excited about AI to understand: I've been excited about this before.
@@ -42,11 +59,15 @@ Not this exact thing. But the *feeling* — the sense that computing has just cr
 
 **The Web.** Everything that seemed impossible became inevitable. I helped scale a platform from 300 to 12 million users. I prototyped a P2P photo-sharing app in 2001 that was about 15 years ahead of available infrastructure. Right idea, wrong decade. I learned the difference.
 
-**AI agent systems.** This is the current wave. And unlike the previous four, this one doesn't feel like it will plateau at "useful tool." The structural shift is different in kind, not just degree.
-
 I've also watched the hype cycles. The promises that didn't materialise. The products that made breathless claims and delivered mediocrity. The AI winters. I have a 45-year calibration on what real progress looks like versus what investment theatre looks like. That calibration is one of the most valuable things I carry into 2025.
 
+![B-Roll](images/b_roll_7.jpg)
+
+**AI agent systems.** This is the current wave. And unlike the previous four, this one doesn't feel like it will plateau at "useful tool." The structural shift is different in kind, not just degree.
+
 ---
+
+![B-Roll](images/b_roll_3.jpg)
 
 ## The Twenty-Four Year Detour That Wasn't
 
@@ -64,6 +85,8 @@ I have. That context is irreplaceable. It's also why I came back.
 
 ---
 
+![B-Roll](images/b_roll_4.jpg)
+
 ## Why 2025 Was Different
 
 I came back to active building in early 2025, and people have asked why then, specifically.
@@ -80,7 +103,11 @@ I have a working estimate: 5 to 8 years before AI becomes invisible infrastructu
 
 That's why 2025.
 
+![B-Roll](images/b_roll_8.jpg)
+
 ---
+
+![B-Roll](images/b_roll_5.jpg)
 
 ## What the Sidekick Actually Does
 
@@ -97,6 +124,8 @@ For me personally, that's enormously valuable. But it's a data point, not a prod
 The product question — the one that drives the community work — is: *what would this look like if it were designed for neurodivergent people from the ground up, rather than designed for neurotypical users and adapted at the edges?* That's what I'm building toward. Not tools that happen to be useful for ND people. Tools where ND cognitive architecture is the first-class design target.
 
 ---
+
+![B-Roll](images/b_roll_6.jpg)
 
 ## The Penguin in the Water
 
@@ -120,4 +149,17 @@ We can't build this alone. And we shouldn't try.
 
 ---
 
-[← Profile](./README.md) · [Story](./STORY.md) · [Projects](./PROJECTS.md) · [Community](./COMMUNITY.md)
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/←_Profile-README-181717?style=for-the-badge&logo=github" alt="Profile">
+  </a>
+  <a href="./STORY.md">
+    <img src="https://img.shields.io/badge/📖_Story-Full_Arc-181717?style=for-the-badge" alt="Story">
+  </a>
+  <a href="./PROJECTS.md">
+    <img src="https://img.shields.io/badge/🛠_Projects-Building-27AE60?style=for-the-badge" alt="Projects">
+  </a>
+  <a href="./COMMUNITY.md">
+    <img src="https://img.shields.io/badge/🤝_Community-Connect-4A90E2?style=for-the-badge" alt="Community">
+  </a>
+</p>

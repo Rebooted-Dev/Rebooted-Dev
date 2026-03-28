@@ -1,12 +1,26 @@
 # The Full Story
 
 > **TL;DR** — From attempted AI code in 1981 to production agent systems in 2025, via church planting, 12M-user scaling, and a 24-year detour that wasn't. A 45-year arc, told straight.
+>
+> *The short version: five computing waves, one 24-year detour, and why 2025 is different.*
 
-[← Profile](./README.md) · [Projects](./PROJECTS.md) · [Community](./COMMUNITY.md)
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/←_Profile-README-181717?style=for-the-badge&logo=github" alt="Profile">
+  </a>
+  <a href="./PROJECTS.md">
+    <img src="https://img.shields.io/badge/🛠_Projects-Building-27AE60?style=for-the-badge" alt="Projects">
+  </a>
+  <a href="./COMMUNITY.md">
+    <img src="https://img.shields.io/badge/🤝_Community-Connect-4A90E2?style=for-the-badge" alt="Community">
+  </a>
+</p>
 
 ---
 
-## 1981 — Before the Vocabulary Existed
+![B-Roll](images/b_roll_1.jpg)
+
+## 🧒 1981 — Before the Vocabulary Existed
 
 I was a teenager in Singapore when I wrote my first attempt at AI code.
 
@@ -20,7 +34,7 @@ That cognitive architecture is the reason I was asking about AI in 1981. And it'
 
 ---
 
-## Five Waves, Ringside
+## 🌊 Five Waves, Ringside
 
 Most people in the current AI moment have lived through one or two major democratisation waves in computing. I've lived through five — as a builder, not a spectator.
 
@@ -38,7 +52,7 @@ I've watched every hype cycle in AI inflate and collapse since 1981. I know the 
 
 ---
 
-## 1989 — The NUS Years and the First Real Builds
+## 🎓 1989 — The NUS Years and the First Real Builds
 
 I completed my BSc in Computer Science at the National University of Singapore in 1989. The technical formation there was rigorous, but the ideas that have lasted came from what I was building *around* the curriculum — autonomous systems, hypermedia, and the conviction that the most interesting problems live at the intersection of disciplines.
 
@@ -46,7 +60,7 @@ Post-graduation, I founded a startup. I built engineering teams and R&D function
 
 ---
 
-## Early 2000s — The Long Middle
+## ⏳ Early 2000s — The Long Middle
 
 In the early 2000s, I made a decision that most people in my technical world found baffling: I stopped building software.
 
@@ -60,7 +74,9 @@ I remained deeply embedded in Singapore's neurodivergent community throughout �
 
 ---
 
-## 2025 — The Unretirement
+![B-Roll](images/b_roll_6.jpg)
+
+## 🔄 2025 — The Unretirement
 
 In early 2025, something shifted.
 
@@ -78,7 +94,7 @@ I estimate we have a 5–8 year window before AI becomes invisible infrastructur
 
 ---
 
-## What the Arc Means
+## 🗺️ What the Arc Means
 
 I'm not here because AI is exciting. I'm here because the communities I've spent 24 years serving — neurodivergent individuals, faith communities, the overlooked and differently-wired — deserve to have people who understand both the technology and them building the tools that will serve them.
 
@@ -88,6 +104,18 @@ I have. That's the irreplaceable context.
 
 The 45 years aren't a credential. They're a map. And right now, knowing where we came from is one of the most useful things I can bring to where we're going.
 
+> 🐧 *Still waddling on land. Absolutely flying in the water.*
+
 ---
 
-[← Profile](./README.md) · [Projects →](./PROJECTS.md) · [Community →](./COMMUNITY.md)
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/←_Profile-README-181717?style=for-the-badge&logo=github" alt="Profile">
+  </a>
+  <a href="./PROJECTS.md">
+    <img src="https://img.shields.io/badge/🛠_Projects-Building-27AE60?style=for-the-badge" alt="Projects">
+  </a>
+  <a href="./COMMUNITY.md">
+    <img src="https://img.shields.io/badge/🤝_Community-Connect-4A90E2?style=for-the-badge" alt="Community">
+  </a>
+</p>

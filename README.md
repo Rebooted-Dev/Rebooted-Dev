@@ -1,4 +1,10 @@
+> [!IMPORTANT]
+> *I wrote my first AI code in 1981.*
+> *In 2025, I came back. Because this time is different.*
+
 <div align="center">
+
+![Header](images/b_roll_1.jpg)
 
 # Jesse Sng
 
@@ -6,24 +12,15 @@
 
 *Singapore*
 
----
-
-> *I wrote my first AI code in 1981.*
-> *In 2025, I came back. Because this time is different.*
-
----
-
 <p align="center">
   <a href="https://x.com/Jesse_Sng">
-    <img src="https://img.shields.io/badge/Follow-@Jesse__Sng-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter">
+    <img src="https://img.shields.io/badge/Follow-@Jesse__Sng-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter">
   </a>
-  &nbsp;
   <a href="https://github.com/Rebooted-Dev">
-    <img src="https://img.shields.io/badge/GitHub-@Rebooted--Dev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-@Rebooted--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/jesse-sng-05ab7944/">
-    <img src="https://img.shields.io/badge/LinkedIn-Jesse%20Sng-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Jesse%20Sng-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -37,21 +34,24 @@ A 45-year arc from attempted machine learning code in 1981 to production AI agen
 
 ---
 
-## Active Projects
+## 🚀 Active Projects
 
 | Project | What It Is | Status |
 |---------|------------|--------|
-| **Missionary Video Pipeline** | Fully automated video production — record, composite, generate cue-driven b-roll | Active |
-| **The Sermonator** | React workbench with nine sermon analysis modes, dark ministerial aesthetic | Active |
-| **Generations** | ND employment matching for Singapore — bridging talent and invisible hiring gaps | Research |
-| **Spiritual Gifts Tool** | Discernment report with dual onboarding paths and export | Deployed |
-| **hyperpasta.dev** | My unified digital home — [→ visit](https://hyper-pasta.dev) | Building |
+| **Missionary Video Pipeline** | Fully automated video production — record, composite, generate cue-driven b-roll | ![](https://img.shields.io/badge/Status-Active-27AE60?style=flat-square) |
+| **The Sermonator** | React workbench with nine sermon analysis modes, dark ministerial aesthetic | ![](https://img.shields.io/badge/Status-Active-27AE60?style=flat-square) |
+| **Generations** | ND employment matching for Singapore — bridging talent and invisible hiring gaps | ![](https://img.shields.io/badge/Status-Research-4A90E2?style=flat-square) |
+| **Spiritual Gifts Tool** | Discernment report with dual onboarding paths and export | ![](https://img.shields.io/badge/Status-Deployed-F39C12?style=flat-square) |
+| **hyperpasta.dev** | My unified digital home — [→ visit](https://hyper-pasta.dev) | ![](https://img.shields.io/badge/Status-Building-8E44AD?style=flat-square) |
 
 ---
 
-## The Arc
+## 📖 The Arc
 
 NUS BSc Computer Science (1989). Startup founding. Scaled a platform from 300 to 12 million users. Then stepped away from software entirely — planted churches, served as Senior Pastor, built communities for 24 years. Not a sabbatical. A genuine pivot.
+
+> [!NOTE]
+> The window to shape how these tools serve overlooked communities is open now, and won't stay open long.
 
 In 2025, the agent architecture I'd been carrying as a mental model since 1981 became *real*. I came back — not to catch a trend, but because the window to shape how these tools serve overlooked communities is open now, and won't stay open long.
 
@@ -59,15 +59,31 @@ In 2025, the agent architecture I'd been carrying as a mental model since 1981 b
 
 ---
 
-## Connect
+## 🤝 Connect
 
 This is a builder's workshop, a research log, and a contact point. If something resonates — whether you're a neurodivergent creator, a church leader curious about AI, or a veteran builder who remembers the earlier waves — I'd genuinely like to hear from you.
+
+> [!TIP]
+> Whether you're a neurodivergent creator, a church leader curious about AI, or a veteran builder — I'd genuinely like to hear from you.
 
 [→ hyper-pasta.dev](https://hyper-pasta.dev) · [X](https://x.com/Jesse_Sng) · [LinkedIn](https://www.linkedin.com/in/jesse-sng-05ab7944/) · [GitHub](https://github.com/Rebooted-Dev)
 
 ---
 
-Explore: **[Story](./STORY.md)** · **[Projects](./PROJECTS.md)** · **[Community](./COMMUNITY.md)** · **[Writing](./blog_article.md)**
+<p align="center">
+  <a href="./STORY.md">
+    <img src="https://img.shields.io/badge/📖_Story-Full_45--Year_Arc-181717?style=for-the-badge" alt="Story">
+  </a>
+  <a href="./PROJECTS.md">
+    <img src="https://img.shields.io/badge/🛠_Projects-What_I'm_Building-27AE60?style=for-the-badge" alt="Projects">
+  </a>
+  <a href="./COMMUNITY.md">
+    <img src="https://img.shields.io/badge/🤝_Community-Who_It's_For-4A90E2?style=for-the-badge" alt="Community">
+  </a>
+  <a href="./blog_article.md">
+    <img src="https://img.shields.io/badge/📝_Writing-Blog_Article-8E44AD?style=for-the-badge" alt="Writing">
+  </a>
+</p>
 
 ---
 

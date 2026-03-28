@@ -2,7 +2,21 @@
 
 *The people I build for, build with, and build toward.*
 
-[← Profile](./README.md) · [Story](./STORY.md) · [Projects](./PROJECTS.md)
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/←_Profile-README-181717?style=for-the-badge&logo=github" alt="Profile">
+  </a>
+  <a href="./STORY.md">
+    <img src="https://img.shields.io/badge/📖_Story-Full_Arc-181717?style=for-the-badge" alt="Story">
+  </a>
+  <a href="./PROJECTS.md">
+    <img src="https://img.shields.io/badge/🛠_Projects-Building-27AE60?style=for-the-badge" alt="Projects">
+  </a>
+</p>
+
+<p align="center">
+  <img src="images/b_roll_5.jpg" alt="Community" width="600">
+</p>
 
 ---
 
@@ -16,7 +30,23 @@ That's not a mission statement. It's a design constraint.
 
 ---
 
-## Neurodiversity Support Systems
+## 🤝 Collaboration Interests
+
+> [!TIP]
+> If any row in the table below describes you, I'd like to connect.
+
+| Who You Are | What We Might Build |
+|-------------|---------------------|
+| Neurodivergent creator or developer | Tools that understand how ND minds actually work |
+| Faith leader or pastor curious about AI | Thoughtful ministry tools — not gimmicks |
+| Developer with accessibility focus | ND-first UX patterns and design systems |
+| Singapore-based community organiser | ND employment pathways and community infrastructure |
+| Veteran technologist re-engaging with AI | The AI Uncles cohort — experience as advantage |
+| Mission organisation or church planter | Media and communication pipelines that don't require a full production team |
+
+---
+
+## 🧠 Neurodiversity Support Systems
 
 ### Who This Is For
 
@@ -38,7 +68,7 @@ I organise neurodivergent community gatherings in Singapore. This isn't arm's-le
 
 ---
 
-## Faith-Tech
+## ✝️ Faith-Tech
 
 ### The Gap I'm Addressing
 
@@ -61,28 +91,13 @@ That's a harder question. It's also the right one.
 
 ---
 
-## AI Uncles
+## 👴 AI Uncles
 
 In 2025, I became part of a group we call **"AI Uncles"** — a cohort of experienced Singaporean technologists combining decades of systems intuition with practical AI delivery.
 
 The name is deliberate. "Uncle" in Singapore English carries weight — seniority, directness, the willingness to tell you what's actually true rather than what sounds good. We've been in technology long enough to have watched multiple cycles of "this changes everything" that didn't, and to recognise what's different about this one.
 
 Our focus: practical AI delivery for ministry and community use cases. Not enterprise transformation. Not venture-scale products. Tools that actually serve people who are often overlooked by mainstream AI development.
-
----
-
-## Collaboration Interests
-
-If any of the following describes you, I'd like to connect:
-
-| Who You Are | What We Might Build |
-|-------------|---------------------|
-| Neurodivergent creator or developer | Tools that understand how ND minds actually work |
-| Faith leader or pastor curious about AI | Thoughtful ministry tools — not gimmicks |
-| Developer with accessibility focus | ND-first UX patterns and design systems |
-| Singapore-based community organiser | ND employment pathways and community infrastructure |
-| Veteran technologist re-engaging with AI | The AI Uncles cohort — experience as advantage |
-| Mission organisation or church planter | Media and communication pipelines that don't require a full production team |
 
 ---
 
@@ -94,4 +109,14 @@ I read every message. I'm not always fast, but I'm always genuine.
 
 ---
 
-[← Profile](./README.md) · [Story](./STORY.md) · [Projects](./PROJECTS.md)
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/←_Profile-README-181717?style=for-the-badge&logo=github" alt="Profile">
+  </a>
+  <a href="./STORY.md">
+    <img src="https://img.shields.io/badge/📖_Story-Full_Arc-181717?style=for-the-badge" alt="Story">
+  </a>
+  <a href="./PROJECTS.md">
+    <img src="https://img.shields.io/badge/🛠_Projects-Building-27AE60?style=for-the-badge" alt="Projects">
+  </a>
+</p>

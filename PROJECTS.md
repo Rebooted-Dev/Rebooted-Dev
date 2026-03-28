@@ -2,7 +2,17 @@
 
 *Production-grade tools at the intersection of faith, neurodivergence, and AI.*
 
-[← Profile](./README.md) · [Story](./STORY.md) · [Community](./COMMUNITY.md)
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/←_Profile-README-181717?style=for-the-badge&logo=github" alt="Profile">
+  </a>
+  <a href="./STORY.md">
+    <img src="https://img.shields.io/badge/📖_Story-Full_Arc-181717?style=for-the-badge" alt="Story">
+  </a>
+  <a href="./COMMUNITY.md">
+    <img src="https://img.shields.io/badge/🤝_Community-Connect-4A90E2?style=for-the-badge" alt="Community">
+  </a>
+</p>
 
 ---
 
@@ -105,4 +115,14 @@ I don't self-describe as a "systems programmer." I describe myself as someone wh
 
 ---
 
-[← Profile](./README.md) · [Story](./STORY.md) · [Community →](./COMMUNITY.md)
+<p align="center">
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/←_Profile-README-181717?style=for-the-badge&logo=github" alt="Profile">
+  </a>
+  <a href="./STORY.md">
+    <img src="https://img.shields.io/badge/📖_Story-Full_Arc-181717?style=for-the-badge" alt="Story">
+  </a>
+  <a href="./COMMUNITY.md">
+    <img src="https://img.shields.io/badge/🤝_Community-Connect-4A90E2?style=for-the-badge" alt="Community">
+  </a>
+</p>
