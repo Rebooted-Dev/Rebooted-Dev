@@ -7,6 +7,9 @@
 ehthumbs.db
 Thumbs.db
 
+# Obsidian (local vault metadata)
+.obsidian/
+
 # IDE
 .vscode/
 .idea/
