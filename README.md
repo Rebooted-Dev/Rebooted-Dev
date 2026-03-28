@@ -1,6 +1,8 @@
 > [!IMPORTANT]
-> *I wrote my first AI code in 1981.*
-> *In 2025, I came back. Because this time is different.*
+> *I wrote my first line of code in 1980, 
+> Launched Startups, Experienced an IPO,
+> Retired in 2001 and became a Pastor.
+> *BUT in 2025, I came back: because this time it's Different.*
 
 <div align="center">
 
@@ -8,7 +10,7 @@
 
 # Jesse Sng
 
-**Builder · Pastor · Neurodivergent Creator**
+**Builder · Pastor · Neurodivergent Creator • ND Community organizer**
 
 *Singapore*
 
@@ -30,7 +32,7 @@
 
 Building AI tools for communities that have been overlooked — neurodivergent, faith-rooted, Southeast Asian.
 
-A 45-year arc from attempted machine learning code in 1981 to production AI agent systems today. ADHD/AuDHD isn't a footnote — it's the cognitive architecture behind the pattern recognition. The hyperfocus, the parallel processing, the refusal to accept "that's just how it works" as an answer.
+A 45-year arc from first code in 1980 to Hypermedia, Digital Media information systems, to AI agent systems and apps today. ADHD/AuDHD isn't a footnote — it's the underlying operating system that drives the hyperfocus, the parallel processing and the refusal to accept "it can't be done" as an answer.
 
 ---
 
@@ -87,4 +89,3 @@ This is a builder's workshop, a research log, and a contact point. If something 
 
 ---
 
-> 🐧 *Still waddling on land. Absolutely flying in the water.*
