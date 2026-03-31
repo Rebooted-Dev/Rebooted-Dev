@@ -5,11 +5,7 @@
 
 ![Header](images/b_roll_1.jpg)
 
-# Jesse Sng
-
-**AI Code Builder · Pastor · Neurodivergent Creator • ND Community Organizer • AI Dev community builder**
-
-*Singapore*
+#AI Code Builder · Pastor · Neurodivergent Creator • ND Community Organizer • AI Dev community builder
 
 <p align="center">
   <a href="https://x.com/Jesse_Sng">
@@ -29,7 +25,7 @@
 
 I am building for communities that have been overlooked: neurodivergent, faith-rooted, Southeast Asian and persons with disabilities. 
 
-A 45-year arc from first code in 1980 to Hypertext, Digital Media information systems, Dotcom Voice Telephony to AI agent systems and apps today. ADHD/AuDHD isn't a footnote — it's the underlying operating system that drives my hyperfocus, the parallel processing and the refusal to accept "it can't be done" as an answer.
+I've been on a 45-year arc from first code in 1980 to Hypertext, Digital Media information systems, Dotcom Voice Telephony to AI agent systems and apps today. ADHD/AuDHD isn't a footnote — it's the underlying operating system that drives my hyperfocus, the parallel processing and the refusal to accept "it can't be done" as an answer.
 
 AI Vibe coding helped me discover I loved Designing and Building more than coding. I thought I left it behind for 24 yrs but AI app building found me and drew me back in. 
 **[→ The full 45-year arc](./STORY.md)**

@@ -43,7 +43,7 @@ These prompts were designed to Explore what happens when we allow AI chatbots li
 |---|--------|----------------|
 | 1 | [Discover yourself as a developer](#prompt-1-discover-yourself-as-a-developer) | Wiring, fit, risks, and direction in the AI era |
 | 2 | [Neurodivergent lens](#prompt-2-are-you-neurodivergent) | ADHD/ASD-style patterns, archetype, roadmap, sample report vibe |
-| 3 | [Ministry & spiritual gifts](#prompt-3-what-are-my-ministry--spiritual-gifts) | Giftedness discernment vs personality / neurotype |
+| 3 | [Ministry & Spiritual gifts](#prompt-3-what-are-my-ministry--spiritual-gifts) | Giftedness discernment vs personality / neurotype |
 
 ---
 
