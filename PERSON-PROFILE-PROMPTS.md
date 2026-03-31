@@ -436,58 +436,6 @@ Build an interactive React artifact for this content. Requirements:
 
 </details>
 
-## Prompt 4: Story Arc (Career Pivot)
-
-<details>
-<summary><strong>▼ Expand — career pivot story prompt</strong></summary>
-
-```text
-Help me write a career pivot story that feels authentic.
-
-Output format:
-1) 1-line hook
-2) 5-bullet timeline (year + milestone)
-3) 120-word narrative paragraph
-4) 1-line "why now" statement
-
-My timeline:
-[1980 ...]
-[1989 ...]
-[2001 ...]
-[2025 ...]
-
-Constraints:
-- Keep facts concrete.
-- No exaggerated claims.
-- Emphasize continuity, not reinvention theatre.
-```
-
-</details>
-
-## Prompt 5: Collaboration Invite
-
-<details>
-<summary><strong>▼ Expand — collaboration invite lines</strong></summary>
-
-```text
-Write 8 collaboration invite lines I can use at the bottom of my profile.
-
-Audience:
-- [e.g., neurodivergent creators]
-- [e.g., ministry leaders]
-- [e.g., experienced builders returning to tech]
-
-Tone:
-- humble, clear, welcoming
-- not salesy
-
-Each line:
-- max 20 words
-- includes one concrete collaboration angle
-```
-
-</details>
-
 ---
 
 ## Disclaimer
