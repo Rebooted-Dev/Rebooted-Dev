@@ -38,13 +38,22 @@ A 45-year arc from first code in 1980 to Hypermedia, Digital Media information s
 
 ## 🚀 Active Projects
 
-| Project | What It Is | Status |
-|---------|------------|--------|
-| **Missionary Video Pipeline** | Fully automated video production — record, composite, generate cue-driven b-roll | ![](https://img.shields.io/badge/Status-Active-27AE60?style=flat-square) |
-| **The Sermonator** | React workbench with nine sermon analysis modes, dark ministerial aesthetic | ![](https://img.shields.io/badge/Status-Active-27AE60?style=flat-square) |
-| **Generations** | ND employment matching for Singapore — bridging talent and invisible hiring gaps | ![](https://img.shields.io/badge/Status-Research-4A90E2?style=flat-square) |
-| **Spiritual Gifts Tool** | Discernment report with dual onboarding paths and export | ![](https://img.shields.io/badge/Status-Deployed-F39C12?style=flat-square) |
-| **hyperpasta.dev** | My unified digital home — [→ visit](https://hyper-pasta.dev) | ![](https://img.shields.io/badge/Status-Building-8E44AD?style=flat-square) |
+| Project | What It Is | Link | Status |
+|---------|------------|------|--------|
+| **Workflow Scripts** | Practical script library for planning, build, debug, documentation, and review workflows | [→ Repo](https://github.com/Rebooted-Dev/Personal-website-Rebooted-Dev/tree/main/Workflow-Scripts) | ![](https://img.shields.io/badge/Status-Active-27AE60?style=flat-square) |
+| **Workflow Shell Project** | Shell-first workflow tooling for repeatable execution and operations | [→ Repo](https://github.com/Rebooted-Dev/Personal-website-Rebooted-Dev) | ![](https://img.shields.io/badge/Status-Active-27AE60?style=flat-square) |
+| **Personal Profile Prompts** | Copy/paste prompt sets for profile writing, positioning, and storytelling | [→ In Progress](https://github.com/Rebooted-Dev/Rebooted-Dev) | ![](https://img.shields.io/badge/Status-Building-8E44AD?style=flat-square) |
+| **Live Chatbots** | Public chatbot experiences for ND support, preaching, prompts, and Bible study | [→ See Bots Below](#-live-chatbots--mini-apps) | ![](https://img.shields.io/badge/Status-Live-27AE60?style=flat-square) |
+
+## 🤖 Live Chatbots & Mini Apps
+
+| Bot / App | Focus | ChatGPT | Gemini | Perplexity |
+|-----------|-------|---------|--------|------------|
+| **ND Buddy** | Neurodivergent support and guidance | [![ChatGPT](https://img.shields.io/badge/Open-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69b038673104819198d4a9ce39721c49-nd-buddy-1-5) | [![Gemini](https://img.shields.io/badge/Open-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/gem/1wj4rdSWaw3TKhWH4wAI4qC6CWsGXWXGD?usp=sharing) | [![Perplexity](https://img.shields.io/badge/Open-Perplexity-111111?style=flat-square)](https://www.perplexity.ai/spaces/nd-buddy-v1-45-CF9T77T_T_G3wT1Q4V60Yg) |
+| **The Sermonator** | Sermon ideation and ministry prep | [![ChatGPT](https://img.shields.io/badge/Open-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69b01d75e8b48191ae3242d5b34169da-the-sermonator-3-2) | [![Gemini](https://img.shields.io/badge/Open-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/gem/1xfkTVY3mERMgPgtpDxhcIPb_HaEs9thV?usp=sharing) | [![Perplexity](https://img.shields.io/badge/Open-Perplexity-111111?style=flat-square)](https://www.perplexity.ai/spaces/the-sermonator-3-2-tg7wA2y6SuqNq47MelMd2w) |
+| **The Prompt Master** | Prompt engineering and prompt refinement | [![ChatGPT](https://img.shields.io/badge/Open-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69b142a560bc819190601f9b37f35ed9-the-prompt-master-v-1-4) | [![Gemini](https://img.shields.io/badge/Open-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/gem/1gGn1AREHuaqtAzV0-qyxb10GO3zhH5j7?usp=sharing) | [![Perplexity](https://img.shields.io/badge/Open-Perplexity-111111?style=flat-square)](https://www.perplexity.ai/spaces/the-prompt-master-9P0jblbtSPepbZWf7pw_gQ) |
+| **Bible Discovery Guide** | Guided Bible study and discovery | [![ChatGPT](https://img.shields.io/badge/Open-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)](https://chatgpt.com/g/g-69b12f96a6d081919bb3018f17323c9a-bible-discovery-guide) | [![Gemini](https://img.shields.io/badge/Open-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)](https://gemini.google.com/gem/1DyMsiZylCHqzZnt3Tlfx6aZxpMR7uCZf?usp=sharing) | [![Perplexity](https://img.shields.io/badge/Open-Perplexity-111111?style=flat-square)](https://www.perplexity.ai/spaces/bible-discovery-guide-a.O0P4KjT.SmlVl44NHl2Q) |
+| **QR Code Generator (Mini App)** | Generate QR codes from links or text | [![Open](https://img.shields.io/badge/Open-Claude_Artifact-D97706?style=flat-square)](https://claude.ai/public/artifacts/82c961cf-ea50-4388-b65c-22e3eec1c491) | — | — |
 
 ---
 
