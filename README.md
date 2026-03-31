@@ -43,7 +43,6 @@ A 45-year arc from first code in 1980 to Hypermedia, Digital Media information s
 | **Workflow Scripts** | Practical script library for planning, build, debug, documentation, and review workflows | [→ Repo](https://github.com/Rebooted-Dev/Personal-website-Rebooted-Dev/tree/main/Workflow-Scripts) | ![](https://img.shields.io/badge/Status-Active-27AE60?style=flat-square) |
 | **Workflow Shell Project** | Shell-first workflow tooling for repeatable execution and operations | [→ Repo](https://github.com/Rebooted-Dev/Personal-website-Rebooted-Dev) | ![](https://img.shields.io/badge/Status-Active-27AE60?style=flat-square) |
 | **Personal Profile Prompts** | Copy/paste prompt sets for profile writing, positioning, and storytelling | [→ In Progress](https://github.com/Rebooted-Dev/Rebooted-Dev) | ![](https://img.shields.io/badge/Status-Building-8E44AD?style=flat-square) |
-| **Live Chatbots** | Public chatbot experiences for ND support, preaching, prompts, and Bible study | [→ See Bots Below](#-live-chatbots--mini-apps) | ![](https://img.shields.io/badge/Status-Live-27AE60?style=flat-square) |
 
 ## 🤖 Live Chatbots & Mini Apps
 
