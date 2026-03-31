@@ -279,7 +279,7 @@ Build an interactive React artifact for this content. Requirements:
 ```
 
 ## Prompt 2: Are you Neurodivergent? 
-![[Pasted image 20260331124612.png]]
+![Neuro Profile Report Preview](./Pasted%20image%2020260331124612.png)
 ```text
 Based on everything you know about me and from our chats, are there discernible hints of ADHD and/or ASD traits? Tell me what you think, don’t filter anything and come up with a table and scoring for your observations. Create a infographic chart to depict what you observe.
 
