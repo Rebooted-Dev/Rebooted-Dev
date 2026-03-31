@@ -5,7 +5,7 @@
 
 ![Header](images/b_roll_1.jpg)
 
-#AI Code Builder · Pastor · Neurodivergent Creator • ND Community Organizer • AI Dev community builder
+## AI Code Builder · Pastor · Neurodivergent Creator • ND Community Organizer • AI Dev community builder
 
 <p align="center">
   <a href="https://x.com/Jesse_Sng">
