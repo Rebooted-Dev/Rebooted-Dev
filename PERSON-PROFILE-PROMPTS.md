@@ -26,7 +26,7 @@
 These prompts were designed to Explore what happens when we allow AI chatbots like ChatGPT and Claude to access, process and analyze information that they have about us.
 
 > [!TIP]
-> On GitHub, hover over a code block and use the copy button to copy each prompt quickly.
+> **Expand/collapse:** Each prompt below is inside a collapsible section (GitHub `<details>`). Click the header to open it, then use the **copy** button on the fenced code block.
 
 ## How To Use
 
@@ -37,7 +37,22 @@ These prompts were designed to Explore what happens when we allow AI chatbots li
 
 ---
 
+## Prompt index
+
+| # | Topic | What it’s for |
+|---|--------|----------------|
+| 1 | Discover yourself as a developer | Wiring, fit, risks, and direction in the AI era |
+| 2 | Neurodivergent lens | ADHD/ASD-style patterns, archetype, roadmap, sample report vibe |
+| 3 | Ministry & spiritual gifts | Giftedness discernment vs personality / neurotype |
+| 4 | Story arc | Short career-pivot narrative for profiles |
+| 5 | Collaboration invite | Lines to invite the right collaborators |
+
+---
+
 ## Prompt 1: Discover Yourself as a Developer
+
+<details>
+<summary><strong>▼ Expand — full prompt (long)</strong></summary>
 
 ```text
 Based on everything you know about me from our conversations, create a candid self-analysis report about who I am as a possible software developer, technical builder, tech entrepreneur, hybrid professional, or something else entirely in the age of AI coding agents.  
@@ -278,8 +293,15 @@ Build an interactive React artifact for this content. Requirements:
   
 ```
 
-## Prompt 2: Are you Neurodivergent? 
+</details>
+
+## Prompt 2: Are you Neurodivergent?
+
+<details>
+<summary><strong>▼ Expand — prompt + example report screenshot</strong></summary>
+
 ![Neuro Profile Report Preview](./Pasted%20image%2020260331124612.png)
+
 ```text
 Based on everything you know about me and from our chats, are there discernible hints of ADHD and/or ASD traits? Tell me what you think, don’t filter anything and come up with a table and scoring for your observations. Create a infographic chart to depict what you observe.
 
@@ -307,7 +329,12 @@ Build an interactive React artifact for this content. Requirements:
 - A 'calling card' or summary panel where appropriate Design this as if it's a real product someone would pay for, not a demo.
 ```
 
+</details>
+
 ## Prompt 3: What are my Ministry & Spiritual Gifts?
+
+<details>
+<summary><strong>▼ Expand — full prompt (long)</strong></summary>
 
 ```text
 Based on everything you know about me from our past chats, produce a candid, high-resolution discernment report on my likely spiritual gifts as described in the New Testament. Important framing:
@@ -407,7 +434,12 @@ Build an interactive React artifact for this content. Requirements:
 - A 'calling card' or summary panel where appropriate Design this as if it's a real product someone would pay for, not a demo.
 ```
 
+</details>
+
 ## Prompt 4: Story Arc (Career Pivot)
+
+<details>
+<summary><strong>▼ Expand — career pivot story prompt</strong></summary>
 
 ```text
 Help me write a career pivot story that feels authentic.
@@ -430,7 +462,12 @@ Constraints:
 - Emphasize continuity, not reinvention theatre.
 ```
 
+</details>
+
 ## Prompt 5: Collaboration Invite
+
+<details>
+<summary><strong>▼ Expand — collaboration invite lines</strong></summary>
 
 ```text
 Write 8 collaboration invite lines I can use at the bottom of my profile.
@@ -448,6 +485,8 @@ Each line:
 - max 20 words
 - includes one concrete collaboration angle
 ```
+
+</details>
 
 ---
 
