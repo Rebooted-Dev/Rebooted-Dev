@@ -19,7 +19,7 @@
 
 ---
 
-I wrote my first attempt at AI code in 1981.
+I wrote my first attempt at AI code in 1980.
 
 The hardware was laughably underpowered for the ambition. The vocabulary I needed — "neural network," "agent," "autonomous reasoning" — didn't really exist in public discourse yet. But the *question* existed, fully formed, in the mind of a teenager in Singapore who was already wired to see systems in everything: *what if it could think for itself?*
 
