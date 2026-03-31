@@ -26,7 +26,7 @@
 These prompts were designed to Explore what happens when we allow AI chatbots like ChatGPT and Claude to access, process and analyze information that they have about us.
 
 > [!TIP]
-> **Expand/collapse:** Each prompt below is inside a collapsible section (GitHub `<details>`). Click the header to open it, then use the **copy** button on the fenced code block.
+> Use the Prompt index links to jump to any section. Each prompt text is collapsible, while preview images stay visible for quick scanning.
 
 ## How To Use
 
@@ -41,11 +41,11 @@ These prompts were designed to Explore what happens when we allow AI chatbots li
 
 | # | Topic | What it’s for |
 |---|--------|----------------|
-| 1 | Discover yourself as a developer | Wiring, fit, risks, and direction in the AI era |
-| 2 | Neurodivergent lens | ADHD/ASD-style patterns, archetype, roadmap, sample report vibe |
-| 3 | Ministry & spiritual gifts | Giftedness discernment vs personality / neurotype |
-| 4 | Story arc | Short career-pivot narrative for profiles |
-| 5 | Collaboration invite | Lines to invite the right collaborators |
+| 1 | [Discover yourself as a developer](#prompt-1-discover-yourself-as-a-developer) | Wiring, fit, risks, and direction in the AI era |
+| 2 | [Neurodivergent lens](#prompt-2-are-you-neurodivergent) | ADHD/ASD-style patterns, archetype, roadmap, sample report vibe |
+| 3 | [Ministry & spiritual gifts](#prompt-3-what-are-my-ministry--spiritual-gifts) | Giftedness discernment vs personality / neurotype |
+| 4 | [Story arc](#prompt-4-story-arc-career-pivot) | Short career-pivot narrative for profiles |
+| 5 | [Collaboration invite](#prompt-5-collaboration-invite) | Lines to invite the right collaborators |
 
 ---
 
@@ -297,10 +297,10 @@ Build an interactive React artifact for this content. Requirements:
 
 ## Prompt 2: Are you Neurodivergent?
 
-<details>
-<summary><strong>▼ Expand — prompt + example report screenshot</strong></summary>
-
 ![Neuro Profile Report Preview](./Pasted%20image%2020260331124612.png)
+
+<details>
+<summary><strong>▼ Expand — full prompt text</strong></summary>
 
 ```text
 Based on everything you know about me and from our chats, are there discernible hints of ADHD and/or ASD traits? Tell me what you think, don’t filter anything and come up with a table and scoring for your observations. Create a infographic chart to depict what you observe.
