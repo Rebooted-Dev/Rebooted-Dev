@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jesse Sng / Rebooted-Dev
-**Building [Drag Free](https://dragfree.work): The AI-native dev workflow system.**<br>
+**Building [Drag Free](https://github.com/Rebooted-Dev/Workflow-Scripts): The AI-native dev workflow system.**<br>
 *AI Code Builder · Church-planting Pastor · Neurodivergent Creator*
 
 <p align="center">
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/jesse-sng-05ab7944/">
     <img src="https://img.shields.io/badge/LinkedIn-Jesse%20Sng-0D1520?style=for-the-badge&logo=linkedin&logoColor=31CBEF" alt="LinkedIn">
   </a>
-  <a href="https://dragfree.work">
+  <a href="https://github.com/Rebooted-Dev/Workflow-Scripts">
     <img src="https://img.shields.io/badge/Product-drag--free-0A3D4A?style=for-the-badge&logo=aeroplanemode_active&logoColor=31CBEF" alt="Drag-Free">
   </a>
 </p>
@@ -48,7 +48,7 @@
 One drag. One drop. The work happens.
 - Works with Cursor, OpenCode, Windsurf, VS Code.
 - Parallel-agent architecture with a unique filesystem-based memory structure.
-- **[→ Learn more at dragfree.work](https://dragfree.work)**
+- **[→ Learn more on GitHub](https://github.com/Rebooted-Dev/Workflow-Scripts)**
 
 ---
 
