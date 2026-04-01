@@ -1,13 +1,7 @@
 <div align="center">
 
-<a href="https://dragfree.work">
-  <img src="images/dragfree-hero-banner.png" alt="Drag-Free: Good workflow is invisible" width="100%">
-</a>
-
-<br><br>
-
 # Jesse Sng / Rebooted-Dev
-**Building [drag-free](https://dragfree.work): The AI-native dev workflow system.**<br>
+**Building [Drag Free](https://dragfree.work): The AI-native dev workflow system.**<br>
 *AI Code Builder · Church-planting Pastor · Neurodivergent Creator*
 
 <p align="center">
@@ -42,8 +36,12 @@
 
 ---
 
-## 🚀 Featured: Drag-Free
+## 🚀 Featured: Drag Free
 *(Currently tracking in the [Workflow Scripts](https://github.com/Rebooted-Dev/Workflow-Scripts) repository)*
+
+<a href="https://github.com/Rebooted-Dev/Workflow-Scripts">
+  <img src="images/dragfree-hero-banner.png" alt="Drag Free: Good workflow is invisible" width="100%">
+</a>
 
 > **Free yourself from dev housekeeping — by dragging and dropping the right file.**
 
@@ -64,14 +62,15 @@ AI Vibe coding helped me discover I loved Designing and Building more than codin
 ---
 
 ## 🛠️ Active Projects
-
+Coming back after 24 yrs (pre-Github and Building-in-public), I'm still getting used to the idea of putting stuff out. There's more to come as I do a lot of building for in-house use these days and there's very little requirement for me to bring things, especially the UI/UX up to Production standards. 
 | Project                      | What It Is                                                                           | Link                                                                  | Status                                                                     |
 | ---------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Drag Free**               | AI-native dev workflow system focused on zero-friction execution from prompt to ship | [→ Repo](https://github.com/Rebooted-Dev/Workflow-Scripts)            | ![](https://img.shields.io/badge/Status-Featured-31CBEF?style=flat-square) |
 | **Workflow Shell Project**   | Shell-first workflow tooling for repeatable execution and operations                 | [→ Repo](https://github.com/Rebooted-Dev/HyperPastaDev-Shell-Project) | ![](https://img.shields.io/badge/Status-Active-31CBEF?style=flat-square)   |
 | **Personal Profile Prompts** | Copy/paste prompt sets for profile writing, positioning, and storytelling            | [→ Prompts](./PERSON-PROFILE-PROMPTS.md)                              | ![](https://img.shields.io/badge/Status-Building-8548A7?style=flat-square) |
 
 ## 🤖 Live Chatbots & Mini Apps
-Mini apps using system prompts are very underrated. In the hands of a developer, you can quickly prototype lots of useful tools.
+Mini apps using system prompts are very underrated. In the hands of a developer, you can quickly prototype lots of useful tools. I'm particularly interested in how AI Chatbots seem to be able to perform personal assessments of us. Take it with a pinch of salt but don't forget to have some fun with them!
 
 | Bot / App                        | Focus                                    | ChatGPT                                                                                                                                                                                        | Gemini                                                                                                                                                                                  | Perplexity                                                                                                                                                            |
 | -------------------------------- | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
