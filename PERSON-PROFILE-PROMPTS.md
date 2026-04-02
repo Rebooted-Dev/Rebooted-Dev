@@ -295,7 +295,7 @@ Build an interactive React artifact for this content. Requirements:
 
 ## Prompt 2: Are you Neurodivergent?
 
-![Neuro Profile Report Preview](./Pasted%20image%2020260331124612.png)
+![Neuro Profile Report Preview](./images/Pasted%20image%2020260331124612.png)
 
 <details>
 <summary><strong>▼ Expand — full prompt text</strong></summary>
@@ -330,8 +330,8 @@ Build an interactive React artifact for this content. Requirements:
 </details>
 
 ## Prompt 3: What are my Ministry & Spiritual Gifts?
-![Ministry Discernment Report Preview](./Pasted%20image%2020260331134002.png)
-![Spiritual Gifts Summary Preview](./Pasted%20image%2020260331133828.png)
+![Ministry Discernment Report Preview](./images/Pasted%20image%2020260331134002.png)
+![Spiritual Gifts Summary Preview](./images/Pasted%20image%2020260331133828.png)
 <details>
 <summary><strong>▼ Expand — full prompt (long)</strong></summary>
 

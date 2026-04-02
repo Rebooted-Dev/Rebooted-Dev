@@ -40,7 +40,7 @@
 *(Currently tracking in the [Workflow Scripts](https://github.com/Rebooted-Dev/Workflow-Scripts) repository)*
 
 <a href="https://github.com/Rebooted-Dev/Workflow-Scripts">
-  <img src="images/dragfree-hero-banner.png" alt="Drag Free: Good workflow is invisible" width="100%">
+  <img src="./images/dragfree-hero-banner.png" alt="Drag Free: Good workflow is invisible" width="100%">
 </a>
 
 > **Free yourself from dev housekeeping — by dragging and dropping the right file.**
@@ -58,6 +58,40 @@ I've been on a 45-year arc from first code in 1980 to Hypertext, Digital Media i
 
 AI Vibe coding helped me discover I loved Designing and Building more than coding. I thought I left it behind for 24 yrs but AI app building found me and drew me back in.
 **[→ The full 45-year arc](./STORY.md)**
+
+---
+
+## ⚙️ Why I Build
+
+> I came to AI tools chasing the promise of fewer steps and saved time. What I found instead was more hoops — app-to-app switching, repetitive prompting, and copy-paste workflows that multiplied rather than reduced effort. So I build my own. Every tool I make is designed around one principle: **if a human has to do it more than twice, it should be automated.**
+
+This is applied ergonomics — not just at the screen level, but across the entire work process. Like IKEA, I'm not designing for design's sake, but for how work actually feels to do. My AuDHD brain has a low tolerance for poorly-designed workflows, which turns out to be a calibrated instrument for detecting friction that most builders normalise and absorb. What works for the most friction-sensitive user works better for everyone.
+
+The world has plenty of engineers cranking out powerful tools. Far fewer people are asking: *how should we work with these tools? How does the sequence of steps match how humans actually think and decide?* That's the gap I'm trying to fill — both in Drag Free and in everything I build for ministry and community use.
+
+---
+
+## 🔬 Technical Interests
+
+### Multilingual Publishing Pipelines
+Built an end-to-end pipeline for publishing sermon content across multiple languages. One app corrects and translates English captions into Tagalog, Simplified & Traditional Mandarin, Burmese, and Khmer. A companion app handles AI-generated titles, descriptions, hashtags, and tags tuned for YouTube SEO — taking sermon notes as the only input. A third app batch-uploads all translations directly to YouTube via API, replacing a 110-step, zero-error-tolerance manual process with a 5-second operation. The three apps form a chain — each one handing off output to the next.
+
+`Multilingual NLP` · `YouTube API` · `Workflow Automation` · `SEA Languages`
+
+### Text-to-Rich-Media Content Engine
+Building tools that take a single source — sermon notes, transcripts, or written content — and transform it into multiple publishable formats without manual creative prompting. One app produces a full blog article with embedded supporting images, a thumbnail, a voice script, and a rendered audio podcast file. Another converts the same content into infographics, expanding context through search grounding, with either an auto-style mode or a curated style picker across dozens of visual styles. Text in, rich media out.
+
+`Agentic Pipelines` · `Image Generation` · `Audio / TTS` · `Search Grounding`
+
+### AI Tools for Church Ministry
+Designing practical AI tools for faith communities: sermon prep, Bible study facilitation, multilingual content publishing, and ministry operations. The goal is bridging the gap between cutting-edge AI capability and the everyday needs of church leaders and ministry teams who aren't technologists — powerful tools that don't require technical knowledge to operate.
+
+`Ministry Tooling` · `Faith Communities` · `Accessibility` · `SEA Context`
+
+### Drag Free — Workflow-First Development
+A coding and work methodology built around markdown-based workflow files that encode thought flow, production flow, and decision sequences — not just task lists. Born from the observation that the world produces many powerful tools but few people think seriously about *how* to work with them. The goal: keep cognitive load low, error surface minimal, and human agency high.
+
+`Workflow Design` · `Cognitive Ergonomics` · `AuDHD-optimised` · `Markdown-based`
 
 ---
 
